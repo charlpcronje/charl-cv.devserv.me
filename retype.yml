@@ -1,0 +1,11 @@
+input: src
+output: public
+url: http://charl.cv.devserv.me
+branding:
+  title: Full-Stack | Web | Software | DB | Dev
+  label: Senior
+links:
+- text: Curriculum Vitae
+  link: http://charl.cv.devserv.me
+footer:
+  copyright: "Charl Cronje &copy; Copyright {{ year }}. All rights reserved."

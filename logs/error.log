@@ -1,0 +1,1 @@
+[Wed Feb 02 09:43:53.565488 2022] [autoindex:error] [pid 37377] [client 172.25.0.2:34620] AH01276: Cannot serve directory /var/www/html/charl.cv.devserv.me/public/: No matching DirectoryIndex (index.html,index.php) found, and server-generated directory index forbidden by Options directive
