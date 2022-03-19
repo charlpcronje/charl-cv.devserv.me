@@ -53,7 +53,7 @@ There are other Software / Online Services like TensorFlow that because of it's 
 |------------------------------|-----------|------------|
 | Auto Hot Key                 | 2 Years   |     5      |
 | n8n                          | 1 Year    |     4      |
-| Robotask                     | 1 Year    |     5      |
+| RoboTask                     | 1 Year    |     5      |
 
 ## Cloud Services / Remote Access
 
@@ -61,7 +61,7 @@ There are other Software / Online Services like TensorFlow that because of it's 
 |------------------------------|-----------|------------|
 | AWS                          | 2 Years   |     4      |
 | Azure                        | 3 Years   |     4      |
-| Cyberduck                    | 3 Years   |     5      |
+| CyberDuck                    | 3 Years   |     5      |
 | FileZilla                    | 19 Years  |     5      |
 | Google Cloud                 | 3 Years   |     3      |
 | Http / FTP / Proxy           | 19 Years  |     5      |
@@ -90,7 +90,7 @@ There are other Software / Online Services like TensorFlow that because of it's 
 | Skype / API                  | 12 Years  |     5      |
 | Slack / API / Int            | 8 Years   |     5      |  
 | Zoom                         | 5 Years   |     5      |
-| WhatsApp Twillo API
+| WhatsApp Twilio API
 
 ## Container Creation & Management
 

@@ -19,12 +19,12 @@ authors:
 - :icon-mark-github: https://github.com/charlpcronje
 - :icon-share-android: https://stackshare.io/webally
 
-# Personal
+## Personal
 
 === Information
 
 - :icon-meter: Age: 38
-- :icon-issue-closed: Drivers Licence: Yes; Code B
+- :icon-issue-closed: Drivers License: Yes; Code B
 - :icon-person-add: Place of Birth: Pretoria, South Africa
 - :icon-repo-pull: Marital status: Divorced
 
@@ -33,7 +33,7 @@ authors:
 [!ref icon="mortar-board"](README.md)
 [!ref icon="graph"](skillsMatrix.md)
 [!ref icon="file-binary"](softwareSkills.md)
-[!ref icon="server"](http://setup.docs.devserv.me)
+[!ref icon="server"](https://docs.devserv.me)
 
 ## :icon-mortar-board: Summary of experience
 
@@ -51,7 +51,7 @@ authors:
   - Municipality of Ekurhuleni
   - Imperial Logistics
 
-### Some of my clients:
+### Some of my clients & Projects
 
 | Clients                                               | Clients                                                        |
 |-------------------------------------------------------|----------------------------------------------------------------|
@@ -85,7 +85,7 @@ authors:
 | Imperial Distribution                                 | Imperial Logistics                                             |
 | Imperial Logistics - Building Management System       | Imperial Logistics - Document Management System                |
 | Imperial Logistics - HR Management System             | Imvula ICD - Asset Management System                           |
-| Imvula ICD - Server Monitoring System                 | Imvula ICD - Software Licence Management System                |
+| Imvula ICD - Server Monitoring System                 | Imvula ICD - Software License Management System                |
 | InGenius - Website                                    | Inspectacar - Online Car Market System                         |
 | IQ Recruitment - Candidate Management System          | Kumba Iron Ore - Annual Report                                 |
 | Laerskool Die Poort                                   | Legacy Underwriting Managers - Portfolio Management System     |
@@ -113,7 +113,6 @@ authors:
 | Vane Systems - Event Ticketing System                 | Vane Systems - Indoor Venue Maps (SVG, XML)                    |
 | Voortrekker Monument - Website                        | WebOnline - Website                                            |
 | Yara International - Website and Branding             |                                                                |
-
 
 - Won 1st prize for 2 years running for the best electronic publication in South Africa for TUT's monthly newsletter called HEITA
 - I believe webAlly was one of few web development companies that also did print work. I outsourced all the non electronic media and got help with some of the hardware development but - I've always tried to keep the development close and to learn as much as possible, programming is truly a my passion.
@@ -230,7 +229,6 @@ authors:
 - ActionScript 3
 - Flex
 
-
 ### Game Development, PC, Android and Console
 
 - Android
@@ -305,7 +303,6 @@ authors:
 - Yi
 - PHP API ()
 - Zend
-i
 
 ### Version Control
 
@@ -346,42 +343,42 @@ SLT
 
 - RStudio
 
-### Other & Skills TasksAgile Project Management
+### Other & Skills Tasks
+
+- Agile Project Management
 - Accounting Principles
 - Biometrics
-- Bulk E-mail & SMS
-- 
-
-- Client Managementding Standards
+- Bulk E-mail and SMS
+- Client Management
+- Implementing code Standards
 - Code Reviews
-- Co
-- Commercial Software DevelopmeDatabase Admin
+- Commercial Software Development
+- Database Admin
 - Digital Signatures
+
 - E-Commerce
-- nt
-- Electronic Invit
-- Electronic Newsletters (Award Winner)ations
-- Graphic DesiGoogle Elements (Polymer)
-- gn
-- In Developmentranets
-- Inv
-- Location Based Authenticationoicing
+- Electronic Invitations
+- Electronic Newsletters (Award Winner)
+- Graphic Design
+- Google Elements (Polymer)
+- Intranet Development
+- Location Based Authentication
+- Invoicing
 - Presentations
 - Project Management
 - Public Speaking
-- Qu- SAP Development
-otes
-- Search Engine Optimiza- SOAP Services
+- SAP Development
+- Quotes
+- Search Engine Optimization
+- SOAP Services
 - Software Planning
 - Software Specifications
-tion
 - System Analysis
 - Tender Applications
-- Trai- Twig Templating
-ning
+- Training
+- Twig Templating
 - Video Editing
 - Website Hosting
-
 ===
 
 === SENOR FULL-STACK PHP / JS WEB / ANDROID DEVELOPER
@@ -422,22 +419,22 @@ I left because I broke my back and was out of action for months, but since then 
 - SaaS (Software as a Service)
 - Webservices (Restful & SOAP)
 
-### Da Managementabases
+### Database Management
 
 - MSSQL
 - Mysql
 - SQLite
 
-# for Indoor Mapping## XML
+### Indoor Mapping
 
 - WSDL
 - XML DTD
 - XML Schema’s
 - XPath
--
+- XML
 - SVG
 - XHTML
- XSLT
+- XSLT
 
 ### GIS
 
@@ -465,8 +462,8 @@ I left because I broke my back and was out of action for months, but since then 
 - Location Based Authentication Methods
 - Voice Recognition
 
-### Android App Dev
-elopment
+### Android App Development
+
 - Custom Hardware Development
 - Java
 - Point Of Sale Systems
@@ -474,23 +471,21 @@ elopment
 - Teleric
 - XML
 
-### CSS Fraandeworks & Pre-processors
+### CSS Frameworks & Pre-processors
 
 - Bootstrap
 - Foundation
 - Material - SASS
 - Less CSS
 - Stylus
-Design
 
 ### Version Systems Control
 
 - GIT
 - SVN
-
 ===
 
-=== SENOR FULL-STACK PHP DEVELOPER
+=== SENIOR FULL-STACK PHP DEVELOPER
 
 ### Feb 2014 - Mar 2015    Legacy Underwriting Managers     Pretoria
 
@@ -522,7 +517,7 @@ Vane Systems offered me a R10 000 increase
 - POS System for Mosaic Restaurant that is owned by the same person
 - Asset Management System for LUM, ABPCO and The Orient Hotel
 - Website for The Orient Hotel
-- I built al of these side projets on HeEPP (My PHP MVC Framework)
+- I built all of these side projets on HeEPP (My PHP MVC Framework)
 
 ### PHP
 
@@ -557,7 +552,6 @@ Vane Systems offered me a R10 000 increase
 #### Version Control
 
 - GIT
-
 ===
 
 === SENOR FULL-STACK PHP DEVELOPER
@@ -664,7 +658,7 @@ This was during the time of IE6, JQuery just started getting some traction and m
 - Section manager
 - Web Developer
 - Web applications including e-commerce, content management, invoicing systems, resource management
-- Php , Asp .net, Visual Basic, MySql, MsSql, Delphi, Access, Flash
+- Php , Asp .net, Visual Basic, MySql, MSSql, Delphi, Access, Flash
 - Graphic design
 - Video editing
 - Multi-Media
@@ -677,35 +671,9 @@ I got married and I decided to start working as a freelancer to have more time a
 
 ===
 
-=== HEAD WEB DEVELOPER
+=== IT TECHNICIAN / WEB DEVELOPER
 
-### Aug 2003 - Dec 2005    PC Palace           Pretoria
-
-- I was studying to become a lawyer back then, but to pay for my studies I started working at PC Palace as a techie. I've always had an intrest in computors and I knew much o what I knew back then by just playing around at home, constantly reinstalling Windows 95 from 22 Stiffy Disks that I baught on special from CNA's grand opening in Menlyn mall for R20. Before the days of owning a CD-ROM and before you could hope to download more than 10MB over an entire weekend.
-- The technical department booked in repairs with an Access database running on the Windows Server 2003. The database constantly kicked people out and caused loads of frustration. That is when I decided to create my very first website, I did some research and decided on a LAMP Stack, I've got no idea how it happened that I chose Apache, PHP and Mysql. It took me about two months and many sleepless nights but I completed the new system for the technical department. After that they put me in charge of the company website. Then some of the companie's clients also started paying them for developmet until Pageworks offerd me the Lead Web Developer role for 6 times what I was earing at PC Palace.
-That was it, I never looked back.
-
-#### Tasks & Tech
-
-- Customer support
-- Web Master
-- Web applications including e-commerce
-- PHP, Asp .net, Visual Basic, MySQL, MSSQL
-- Graphic design
-- Installing networks and maintaining networks
-- Server installations
-- Hardware Troubleshooting
-- Sales
-
-#### Reason for leaving
-
-I got married and I decided to start working as a freelancer to have more time at home, little did I know that working for yourself is a lot more hours than working for someone else.
-
-===
-
-=== HEAD WEB DEVELOPER
-
-### Aug 2005 - Dec 2007    PC Palace           Pretoria
+### Aug 2004 - Dec 2005    PC Palace           Pretoria
 
 - I was studying to become a lawyer back then, but to pay for my studies I started working at PC Palace as a techie. I've always had an intrest in computors and I knew much o what I knew back then by just playing around at home, constantly reinstalling Windows 95 from 22 Stiffy Disks that I baught on special from CNA's grand opening in Menlyn mall for R20. Before the days of owning a CD-ROM and before you could hope to download more than 10MB over an entire weekend.
 - The technical department booked in repairs with an Access database running on the Windows Server 2003. The database constantly kicked people out and caused loads of frustration. That is when I decided to create my very first website, I did some research and decided on a LAMP Stack, I've got no idea how it happened that I chose Apache, PHP and Mysql. It took me about two months and many sleepless nights but I completed the new system for the technical department. After that they put me in charge of the company website. Then some of the companie's clients also started paying them for developmet until Pageworks offerd me the Lead Web Developer role for 6 times what I was earing at PC Palace.
@@ -731,7 +699,7 @@ I got married and I decided to start working as a freelancer to have more time a
 
 === NETWORK / DESIGN
 
-### Dec 2004 - Dec 2005    Nexus Online           Pretoria
+### Feb 2004 - Aug 2004    Nexus Online           Pretoria
 
 #### Tasks & Tech
 
@@ -762,11 +730,11 @@ One of my friends owned an internet cafe / Web-Hosting company, I helped out whe
 
 ### Aug 2002 - Dec 2003    CNN                London, England
 
-#### Equipmesnt & Peronal
+#### Equipment & Personal
 
 - Keep track of personal and equipment
 - SignIn Logs
-- Shorw visitos to interview rooms
+- Show visitors to interview rooms
 - Security
 
 ===
