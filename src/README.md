@@ -35,9 +35,37 @@ authors:
 [!ref icon="mortar-board"](README.md)
 [!ref icon="graph"](skillsMatrix.md)
 [!ref icon="file-binary"](softwareSkills.md)
-[!ref icon="server"](https://docs.devserv.me)
 
 ## :icon-mortar-board: Summary of experience
+
+=== My Wiki
+
+So many times we take time to figure out things we need to do just to repeat the process sometimes months or years later. I'm not crazy about doing the same things over and over or wasting time on researching the same problem more than once. So to avoid this I started writing some documentation on things I do that I might need to do again in the future.
+
+[!ref icon="server" label="Documentation Index"](https://docs.devserv.me)
+
+| Document                                                                 | Description                                |
+|--------------------------------------------------------------------------|--------------------------------------------|
+| :icon-markdown: [ARM Docs](https://arm.docs.devserv.me)                  | Raspberry Pi Documentation                 |
+| :icon-markdown: [Backups](https://backup.docs.devserv.me)                | Incremental Config backups with GIT        |
+| :icon-markdown: [Bash](https://bash.docs.devserv.me)                     | Bash Scripting                             |
+| :icon-markdown: [Development](https://dev.docs.devserv.me)               | Web / Terminal / Windows / App Development |
+| :icon-markdown: [GitHub Gists](https://gist.docs.devserv.me)             | GitHub Gists (Code snippets and scrips)    |
+| :icon-markdown: [HeEPP](https://heepp.docs.devserv.me)                   | HeEPP Model View Controller Framework      |
+| :icon-markdown: [Notes and Links](https://notes.docs.devserv.me)         | Some notes worth sharing with some links   |
+| :icon-markdown: [Open Source Stuff](https://opensource.docs.devserv.me)  | Open Source Stuff                          |
+| :icon-markdown: [Project Notes](https://projects.docs.devserv.me)        | Project notes, planning and conclusion     |
+| :icon-markdown: [Reports Server](https://reports.docs.devserv.me)        | BI, RMarkdown, Jasper Reports Server API   |
+| :icon-markdown: [Interesting GitHub Repos](http://repos.docs.devserv.me) | Repos with Good code Examples or Projects  |
+| :icon-markdown: [Laravel Orion API](https://orion.docs.devserv.me)       | Laravel Orion API                          |
+| :icon-markdown: [Software as a Service](http://saas.docs.devserv.me)     | Services I use and create fall under SaaS  |
+| :icon-markdown: [Server Settings](https://server.docs.devserv.me)        | Configs / Virtual Hosts / Sub-domains      |
+| :icon-markdown: [Server & Software Setup](https://setup.docs.devserv.me) | Server & Software Setup                    |
+| :icon-markdown: [Productivity Tips](https://tips.docs.devserv.me)        | Tips on creating Productive workflows      |
+| :icon-markdown: [Terminal & Self Hosted](https://tools.docs.devserv.me)  | Terminal and Web-Applications              |
+| :icon-markdown: [Online Trading](https://trading.docs.devserv.me)        | Online Trading, Stocks, Crypto & Forex     | 
+
+---
 
 === SENIOR FULL-STACK PHP / JS / WEB / ANDROID / DESKTOP DEVELOPER
 
