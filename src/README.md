@@ -2,7 +2,7 @@
 # Mix of author types
 title: Summary of experience
 label: Summary of experience
-date: 2022-02-09
+date: 2022-04-23
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills 
 icon: mortar-board
 order: 3
@@ -23,10 +23,12 @@ authors:
 
 === Information
 
-- :icon-meter: Age: 38
+**Last Update:** 23 April 2022
+
+- :icon-meter: Age: 39
 - :icon-issue-closed: Drivers License: Yes; Code B
 - :icon-person-add: Place of Birth: Pretoria, South Africa
-- :icon-repo-pull: Marital status: Divorced
+- :icon-meter: Years Experience: 20
 
 ===
 
