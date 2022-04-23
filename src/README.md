@@ -36,8 +36,6 @@ authors:
 [!ref icon="graph"](skillsMatrix.md)
 [!ref icon="file-binary"](softwareSkills.md)
 
-## :icon-mortar-board: Summary of experience
-
 === My Wiki
 
 So many times we take time to figure out things we need to do just to repeat the process sometimes months or years later. I'm not crazy about doing the same things over and over or wasting time on researching the same problem more than once. So to avoid this I started writing some documentation on things I do that I might need to do again in the future.
@@ -66,6 +64,8 @@ So many times we take time to figure out things we need to do just to repeat the
 | :icon-markdown: [Online Trading](https://trading.docs.devserv.me)        | Online Trading, Stocks, Crypto & Forex     | 
 
 ---
+
+## :icon-mortar-board: Summary of experience
 
 === SENIOR FULL-STACK PHP / JS / WEB / ANDROID / DESKTOP DEVELOPER
 
