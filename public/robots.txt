@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://charl.cv.devserv.me/sitemap.xml.gz
