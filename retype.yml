@@ -1,11 +1,25 @@
 input: src
 output: public
-url: http://charl.cv.devserv.me
+url: https://cv.cronje.me
+meta:
+  title: " | cv.cronje.me -  Curriculum Vitae"
 branding:
-  title: Full-Stack | Web | Software | DB | Dev
-  label: Senior
+  title: Full-Stack Web, Software, DB Engineer
+  label: SENIOR
+favicon: favicon.png
 links:
+- text: cronje.me Documentation 
+  link: https://docs.cronje.me
+  icon: link
+- text: cronje.me Dashboard
+  link: https://nav.cronje.me
+  icon: link
 - text: Curriculum Vitae
-  link: http://charl.cv.devserv.me
+  link: https://cv.cronje.me
+  icon: link
+edit:
+  repo: "https://github.com/charlpcronje/cv.cronje.me/"
+  base: /src
+  label: Edit on GitHub
 footer:
   copyright: "Charl Cronje &copy; Copyright {{ year }}. All rights reserved."
