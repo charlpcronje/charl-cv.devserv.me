@@ -1,22 +1,25 @@
 ---
 title: Software Skills
 label: Software Skills
-date: 2022-02-09
-description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills 
+date: 2022-05-15
+description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
-order: 3
+order: 1
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://www.linkedin.com/in/charl-cronje
-    avatar: https://assets.devserv.me/avatars/darkNight.jpg
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darkNights.jpg
 ---
 
 # Charl Cronje
 
-- :icon-link: https://www.linkedin.com/in/charl-cronje
-- :icon-mark-github: https://github.com/charlpcronje
-- :icon-share-android: https://stackshare.io/webally
+- :icon-link: [My Dashboard](https://nav.cronje.me)
+- :icon-link: [Blog / Portfolio](https://blog.cronje.me)
+- :icon-link: [LinkedIn](https://linkedin.com/in/charl-cronje)
+- :icon-link: [GitHub](https://github.com/charlpcronje)
+- :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
+- :icon-link: [StachShare](https://stackshare.io/webally)
 
 === Software Skills
 
