@@ -1,23 +1,26 @@
 ---
-# Mix of author types
 title: Summary of experience
 label: Summary of experience
-date: 2022-04-23
-description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills 
+date: 2022-05-15
+description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 3
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://www.linkedin.com/in/charl-cronje
-    avatar: https://assets.devserv.me/avatars/darkNight.jpg
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darkNights.jpg
 ---
 
 # Charl Cronje
 
-- :icon-link: https://www.linkedin.com/in/charl-cronje
-- :icon-mark-github: https://github.com/charlpcronje
-- :icon-share-android: https://stackshare.io/webally
+- :icon-link: [My Dashboard](https://nav.cronje.me)
+- :icon-link: [Blog / Portfolio](https://blog.cronje.me)
+- :icon-link: [LinkedIn](https://linkedin.com/in/charl-cronje)
+- :icon-link: [GitHub](https://github.com/charlpcronje)
+- :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
+- :icon-link: [StachShare](https://stackshare.io/webally)
+
 
 ## Personal
 
@@ -40,28 +43,38 @@ authors:
 
 So many times we take time to figure out things we need to do just to repeat the process sometimes months or years later. I'm not crazy about doing the same things over and over or wasting time on researching the same problem more than once. So to avoid this I started writing some documentation on things I do that I might need to do again in the future.
 
-[!ref icon="server" label="Documentation Index"](https://docs.devserv.me)
+[!ref icon="server" label="Documentation Index"](https://docs.cronje.me)
 
-| Document                                                                 | Description                                |
-|--------------------------------------------------------------------------|--------------------------------------------|
-| :icon-markdown: [ARM Docs](https://arm.docs.devserv.me)                  | Raspberry Pi Documentation                 |
-| :icon-markdown: [Backups](https://backup.docs.devserv.me)                | Incremental Config backups with GIT        |
-| :icon-markdown: [Bash](https://bash.docs.devserv.me)                     | Bash Scripting                             |
-| :icon-markdown: [Development](https://dev.docs.devserv.me)               | Web / Terminal / Windows / App Development |
-| :icon-markdown: [GitHub Gists](https://gist.docs.devserv.me)             | GitHub Gists (Code snippets and scrips)    |
-| :icon-markdown: [HeEPP](https://heepp.docs.devserv.me)                   | HeEPP Model View Controller Framework      |
-| :icon-markdown: [Notes and Links](https://notes.docs.devserv.me)         | Some notes worth sharing with some links   |
-| :icon-markdown: [Open Source Stuff](https://opensource.docs.devserv.me)  | Open Source Stuff                          |
-| :icon-markdown: [Project Notes](https://projects.docs.devserv.me)        | Project notes, planning and conclusion     |
-| :icon-markdown: [Reports Server](https://reports.docs.devserv.me)        | BI, RMarkdown, Jasper Reports Server API   |
-| :icon-markdown: [Interesting GitHub Repos](http://repos.docs.devserv.me) | Repos with Good code Examples or Projects  |
-| :icon-markdown: [Laravel Orion API](https://orion.docs.devserv.me)       | Laravel Orion API                          |
-| :icon-markdown: [Software as a Service](http://saas.docs.devserv.me)     | Services I use and create fall under SaaS  |
-| :icon-markdown: [Server Settings](https://server.docs.devserv.me)        | Configs / Virtual Hosts / Sub-domains      |
-| :icon-markdown: [Server & Software Setup](https://setup.docs.devserv.me) | Server & Software Setup                    |
-| :icon-markdown: [Productivity Tips](https://tips.docs.devserv.me)        | Tips on creating Productive workflows      |
-| :icon-markdown: [Terminal & Self Hosted](https://tools.docs.devserv.me)  | Terminal and Web-Applications              |
-| :icon-markdown: [Online Trading](https://trading.docs.devserv.me)        | Online Trading, Stocks, Crypto & Forex     | 
+| Document                                                                    | Description                                |
+|-----------------------------------------------------------------------------|--------------------------------------------|
+| :icon-markdown: [AI Docs](https://ai.docs.cronje.me)                        | Artificial Intelegence                     |
+| :icon-markdown: [Android Docs](https://android.docs.cronje.me)              | Using Linux tools on your android device   |
+| :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                      | Raspberry Pi Documentation                 |
+| :icon-markdown: [Backups & Config](https://backup.docs.cronje.me)           | Incremental Config backups with GIT        |
+| :icon-markdown: [Bash](https://bash.docs.cronje.me)                         | Bash Scripting                             |
+| :icon-markdown: [Crypto & Mining](https://crypto.docs.cronje.me)            | Crypto, Mining, Decentralization & Web 3.0 |
+| :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
+| :icon-markdown: [DNS, MX Records, CNAME](https://dns.docs.cronje.me)        | Domain Name System, Mail exchange etc      |
+| :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
+| :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
+| :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
+| :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
+| :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
+| :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.cronje.me)              | Eloquent model & Query builder for MongoDB |
+| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
+| :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
+| :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
+| :icon-markdown: [PHP Development](https://php.docs.cronje.me)               | PHP Backend Development                    |
+| :icon-markdown: [Perl Development](https://perl.docs.cronje.me)             | Perl Server Side Development               |
+| :icon-markdown: [Repositories](https://repos.docs.cronje.me)                | GitHub Repos worth looking at              |
+| :icon-markdown: [Reporting & BI](https://reports.docs.cronje.me)            | Reporting & BI with Jasper Reports         |
+| :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)        | Services I can recommend or created myself |
+| :icon-markdown: [Server & Software Setup](https://setup.docs.cronje.me)     | Server & Software Setup                    |
+| :icon-markdown: [Tips & Productivity](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
+| :icon-markdown: [Tools and Self Hosted](https://tools.docs.cronje.me)       | Terminal and Web-Applications              |
+| :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)          | Trading and Crypto Markets                 |
+| :icon-markdown: [Troubleshooting Docs](https://troubleshoot.docs.cronje.me) | Troubleshooting Documentation              |
+| :icon-markdown: [Windows Tips](https://win.docs.cronje.me)                  | Windows 10 & 11 Tips and Tricks            |
 
 ---
 
@@ -89,7 +102,7 @@ So many times we take time to figure out things we need to do just to repeat the
 | Airport Company South Africa - 3D Airport Game        | Airport Company South Africa - Duty free Shopping              |
 | Alex May Inc - Case Management System                 | Alex May Inc - Document Encryption                             |
 | Alex May Inc - Document Management Systems (DMS)      | ANANZI - Online Marketing / Banners                            |
-| Anglo American - E-Mail Marketing                     | Anglo American - Website Development                           |
+| Anglo American - E-Mail Marketing                     | Electronic Invitations                                         |
 | Anglo Gold - Electronic Invitations                   | Anglo Gold - Website                                           |
 | APBCO Insurance - Asset Management System             | ATKV - Website and Print                                       |
 | Best4Kids - Website & Customer Portal                 | BKS Engineers - Website                                        |
@@ -97,7 +110,7 @@ So many times we take time to figure out things we need to do just to repeat the
 | Brinant Security - Shift and Staff Management System  | Cavalier Abattoirs - Process Management System                 |
 | Cavalier Abattoirs - Quote and Invoice System         | Cavalier Abattoirs - Vehicle Maintenance System                |
 | Cavalier Abattoirs - Vehicle Tracking and  System     | Cavalier Livestock - Website                                   |
-| CE@UP - Multimedia Presentation                       | City Lodge - Bid2Stay Website                                  |
+| CE @ UP - Multimedia Presentation                     | City Lodge - Bid2Stay Website                                  |
 | City Lodge - Online Booking System                    | City Lodge - System Integration                                |
 | City Lodge - Website                                  | City Lodge Hotel Group                                         |
 | Collect-a-Can - Website                               | Constantia Village Mall - Marketing System                     |
@@ -151,12 +164,22 @@ So many times we take time to figure out things we need to do just to repeat the
 ### HeEPP - Hyper extensible Element Pre-Processsor
 
 - When I started doing freelance work I got a lot of the same kind of projects and I started creating modules I can re-use for different projects. These modules grew into a framework that I initially called `webCore`. Eventually after years the MVC framework I created was at the stage where it was the only tool I used for all my projects if the client had no particular preference. During this time I got a 2 year contract from Cavalier Abatoirs to create a complete process management system and invoice system. This gave me the chance to refine webCore and I renamed it HeEPP.
-- [HeEPP Documentation](https://heepp-docs.devserv.me)
 - I named it HeEPP or Hyper extensible Element Pre-Processsor because of the way the system focused or creating re-usable elements. Elements can be used within elements and elements can be extended by others. This was years before Google Polyner started doing the same but only on the front-end. 
 - In HeEPP you create custom HTML tags that is then called an element.
 - Each element has a corrosponding PHP class with the same name
 - The attributes of the tag updates the properties of the PHP class and the PHP class will then render the element in various ways depending or those properties.
 - Elements can be used in loops and they can be nested and grouped. Building a system that comprises of re-usable elements you only have to create once and test once and that you can then build bigger elements with is suprisingly efficient and very stable and easy to maintain and test. The past few years I havn't had the time I wanted to finish the docs but I'm busy with that now in 2022 and I hope to get this dome before May 2022 and then putting it out there for the public to comment and help out if they would like to. I hope to compeete with Laravel from 2024 for the top spot in PHP MVC Frameworks
+
+#### Artificail Intelligence
+
+- Chat Bots
+- Model Training
+- Large Language Models
+- Fine Tuning Large Language Models
+- Pinecone Vector Database
+- Task Automation
+- Code Assistant
+- Chat GPT
 
 #### Android
 
@@ -170,7 +193,7 @@ So many times we take time to figure out things we need to do just to repeat the
 - Bash
 - newt Whiptail
 
-#### CSS Frameworks & Pre-processors
+#### CSS, Frameworks & Pre-processors
 
 - Bootstrap
 - Bulma
@@ -768,3 +791,5 @@ One of my friends owned an internet cafe / Web-Hosting company, I helped out whe
 - Security
 
 ===
+
+__To convert this document to PDF, visit: https://www.web2pdfconvert.com/ and add https://cv.cronje.me to the URL__
