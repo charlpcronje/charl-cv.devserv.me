@@ -1,7 +1,7 @@
 ---
 title: Summary of experience
 label: Summary of experience
-date: 2022-05-15
+date: 2023-06-23
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 3
@@ -16,11 +16,11 @@ authors:
 
 - :icon-link: [My Dashboard](https://nav.cronje.me)
 - :icon-link: [Blog / Portfolio](https://blog.cronje.me)
-- :icon-link: [LinkedIn](https://linkedin.com/in/charl-cronje)
+- :icon-link: [LinkedIn](https://www.linkedin.com/in/charlpcronje)
 - :icon-link: [GitHub](https://github.com/charlpcronje)
 - :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
-- :icon-link: [StachShare](https://stackshare.io/webally)
-
+- :icon-link: [StackShare](https://stackshare.io/charlpcronje)
+- :icon-link: [Twitter](https://twitter.com/CPCharlCronje)
 
 ## Personal
 
