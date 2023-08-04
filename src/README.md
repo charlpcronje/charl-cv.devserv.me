@@ -1,7 +1,7 @@
 ---
 title: Summary of experience
 label: Summary of experience
-date: 2023-06-23
+date: 2023-08-03
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 3
@@ -26,12 +26,12 @@ authors:
 
 === Information
 
-**Last Update:** 23 April 2022
+**Last Update:** 04 August 2023
 
-- :icon-meter: Age: 39
+- :icon-meter: Age: 40
 - :icon-issue-closed: Drivers License: Yes; Code B
 - :icon-person-add: Place of Birth: Pretoria, South Africa
-- :icon-meter: Years Experience: 20
+- :icon-meter: Years Experience: 21
 
 ===
 
@@ -47,7 +47,7 @@ So many times we take time to figure out things we need to do just to repeat the
 
 | Document                                                                    | Description                                |
 |-----------------------------------------------------------------------------|--------------------------------------------|
-| :icon-markdown: [AI Docs](https://ai.docs.cronje.me)                        | Artificial Intelegence                     |
+| :icon-markdown: [AI Docs](https://ai.docs.cronje.me)                        | Artificial Intelligence                     |
 | :icon-markdown: [Android Docs](https://android.docs.cronje.me)              | Using Linux tools on your android device   |
 | :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                      | Raspberry Pi Documentation                 |
 | :icon-markdown: [Backups & Config](https://backup.docs.cronje.me)           | Incremental Config backups with GIT        |
@@ -56,12 +56,12 @@ So many times we take time to figure out things we need to do just to repeat the
 | :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
 | :icon-markdown: [DNS, MX Records, CNAME](https://dns.docs.cronje.me)        | Domain Name System, Mail exchange etc      |
 | :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
-| :icon-markdown: [Hacking & Info Gatering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
+| :icon-markdown: [Hacking & Info Gathering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
 | :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
 | :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
 | :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
 | :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.cronje.me)              | Eloquent model & Query builder for MongoDB |
-| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remeber with links   |
+| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remember with links   |
 | :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
 | :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
 | :icon-markdown: [PHP Development](https://php.docs.cronje.me)               | PHP Backend Development                    |
@@ -80,7 +80,7 @@ So many times we take time to figure out things we need to do just to repeat the
 
 ## :icon-mortar-board: Summary of experience
 
-=== SENIOR FULL-STACK PHP / JS / WEB / ANDROID / DESKTOP DEVELOPER
+=== SENIOR FULL-STACK WEB / MOBILE / AI / DESKTOP DEVELOPER
 
 - Feb 2019 - Current
 - Mar 2015 - Jan 2018
@@ -90,7 +90,8 @@ So many times we take time to figure out things we need to do just to repeat the
 
 - webAlly is the company name under which I do all my freelance work, I established the company in 2006. Over the years I've accepted print work, advertising work, video, graphic design, web-development, custom hardware development, embedded programming and Software Development.
 - Awarded Tenders:
-  - Was awarded tenders from USAID on the PEPFAR project
+  > Was awarded tenders from: 
+  - USAID on the PEPFAR project
   - Municipality of Ekurhuleni
   - Imperial Logistics
 
@@ -161,16 +162,16 @@ So many times we take time to figure out things we need to do just to repeat the
 - I believe webAlly was one of few web development companies that also did print work. I outsourced all the non electronic media and got help with some of the hardware development but - I've always tried to keep the development close and to learn as much as possible, programming is truly a my passion.
 - In 2019, for McDonalds I Created and Launched Tinbo Dash, a PC and Android Infinite Runner type game where players could win vouchers by playing the game. We had over a million game played in 4 weeks.
 
-### HeEPP - Hyper extensible Element Pre-Processsor
+### HeEPP - Hyper extensible Element Pre-Processor
 
-- When I started doing freelance work I got a lot of the same kind of projects and I started creating modules I can re-use for different projects. These modules grew into a framework that I initially called `webCore`. Eventually after years the MVC framework I created was at the stage where it was the only tool I used for all my projects if the client had no particular preference. During this time I got a 2 year contract from Cavalier Abatoirs to create a complete process management system and invoice system. This gave me the chance to refine webCore and I renamed it HeEPP.
-- I named it HeEPP or Hyper extensible Element Pre-Processsor because of the way the system focused or creating re-usable elements. Elements can be used within elements and elements can be extended by others. This was years before Google Polyner started doing the same but only on the front-end. 
+- When I started doing freelance work I got a lot of the same kind of projects and I started creating modules I can re-use for different projects. These modules grew into a framework that I initially called `webCore`. Eventually after years the MVC framework I created was at the stage where it was the only tool I used for all my projects if the client had no particular preference. During this time I got a 2 year contract from Cavalier Abattoirs to create a complete process management system and invoice system. This gave me the chance to refine webCore and I renamed it HeEPP.
+- I named it HeEPP or Hyper extensible Element Pre-Processor because of the way the system focused or creating re-usable elements. Elements can be used within elements and elements can be extended by others. This was years before Google Polymer started doing the same but only on the front-end. 
 - In HeEPP you create custom HTML tags that is then called an element.
-- Each element has a corrosponding PHP class with the same name
+- Each element has a corresponding PHP class with the same name
 - The attributes of the tag updates the properties of the PHP class and the PHP class will then render the element in various ways depending or those properties.
-- Elements can be used in loops and they can be nested and grouped. Building a system that comprises of re-usable elements you only have to create once and test once and that you can then build bigger elements with is suprisingly efficient and very stable and easy to maintain and test. The past few years I havn't had the time I wanted to finish the docs but I'm busy with that now in 2022 and I hope to get this dome before May 2022 and then putting it out there for the public to comment and help out if they would like to. I hope to compeete with Laravel from 2024 for the top spot in PHP MVC Frameworks
+- Elements can be used in loops and they can be nested and grouped. Building a system that comprises of re-usable elements you only have to create once and test once and that you can then build bigger elements with is surprisingly efficient and very stable and easy to maintain and test. The past few years I haven't had the time I wanted to finish the docs but I'm busy with that now in 2022 and I hope to get this done before May 2022 and then putting it out there for the public to comment and help out if they would like to. I hope to compete with Laravel from 2024 for the top spot in PHP MVC Frameworks
 
-#### Artificail Intelligence
+#### Artificial Intelligence
 
 - Chat Bots
 - Model Training
@@ -255,7 +256,7 @@ So many times we take time to figure out things we need to do just to repeat the
 
 ### Databases
 
-- Database Admininstrator
+- Database Administrator
 - NoSQL Databases
   - AWS DynamoDB
   - CouchDB
@@ -272,7 +273,7 @@ So many times we take time to figure out things we need to do just to repeat the
 
 ### Delphi
 
-- Dephi for PHP
+- Delphi for PHP
 - Embedded Programming
 - Rad Studio
 
@@ -301,7 +302,7 @@ So many times we take time to figure out things we need to do just to repeat the
 - Illustrator
 - InDesign
 - InkScape
-- Photoshop
+- PhotoShop
 
 ### Hardware
 
@@ -317,7 +318,7 @@ So many times we take time to figure out things we need to do just to repeat the
 - Quasar
 - React
 - Svelte
-- Telerik
+- Teleric
 - Vite
 - Vue.js
 
@@ -368,7 +369,7 @@ So many times we take time to figure out things we need to do just to repeat the
 - Lit-HTML
 - Polymer
 
-### Programing Methodologies
+### Programming Methodologies
 
 - RESTful API's
 - Soap Services
@@ -385,7 +386,7 @@ So many times we take time to figure out things we need to do just to repeat the
 - XPath
 - X
 - WSDL
-SLT
+- SLT
 
 ### Python
 
@@ -443,7 +444,7 @@ Vane Systems creates and integrates with payment solutions as well as booking / 
 - During my time at Vane Systems I maintained the C# RestFull API SOAP Service and PHP GraphQL API.
 - The company also does bus bookings and integrates with Greyhound and InterCape. They also do event booking systems point of sale systems and credit card machines.
 - Like with most Senior developers I had a hand in most of what was going on. Security was of great concern with many of the systems as well as physical access control systems as well as document encryption.
-- The development team worked on an Agile The company manages the developers with an agile methodology, test driven development, scrums, burndows, kanban boards etc.
+- The development team worked on an Agile The company manages the developers with an agile methodology, test driven development, scrums, burndows, Kanban boards etc.
 
 ### Reason for leaving
 
@@ -470,7 +471,7 @@ I left because I broke my back and was out of action for months, but since then 
 - Object Orientated
 - PHP
 - SaaS (Software as a Service)
-- Webservices (Restful & SOAP)
+- Web Services (Restful & SOAP)
 
 ### Database Management
 
@@ -546,9 +547,9 @@ Legacy Insurance Underwriting Managers (LUM)
 
 Software for general insurance underwriting, systems and processes will allow you as our client access to your portfolio in real time wherever you are and offers you improved communication with your client.
 
-Web: [www.lum.co.za](https://www.lum.co.za/l> um/)
+Web: [www.lum.co.za](https://www.lum.co.za)
 
-At LUM I worked as a senior PHP developer on a web-based system for insurance. My main responsibility was to maintain LUM's underwriting software. This web-based system is used by insurance brokers who sell insurane for multiple underwriters. The system integrates with Sanlam, Budget, APBCO, and a few more. The type of systems are really quite extensive and is of course mainly focused to make sure all the financials are done correctly and that there is a proper audit trail for all transactions. Once unique thing I've only encountered at this company was the Database technology the used for the system: Sybase, a Columnar Databases.
+At LUM I worked as a senior PHP developer on a web-based system for insurance. My main responsibility was to maintain LUM's underwriting software. This web-based system is used by insurance brokers who sell insurance for multiple underwriters. The system integrates with Sanlam, Budget, APBCO, and a few more. The type of systems are really quite extensive and is of course mainly focused to make sure all the financial are done correctly and that there is a proper audit trail for all transactions. Once unique thing I've only encountered at this company was the Database technology the used for the system: Sybase, a Columnar Databases.
 
 - A columnar database is a database management system (DBMS) that stores data in columns instead of rows. 
 - Columnar databases store data in a way that greatly improves disk I/O performance. They are particularly helpful for data analytics and data warehousing.
@@ -568,9 +569,9 @@ Vane Systems offered me a R10 000 increase
 #### Other Tasks
 
 - POS System for Mosaic Restaurant that is owned by the same person
-- Asset Management System for LUM, ABPCO and The Orient Hotel
+- Asset Management System for LUM, APBCO and The Orient Hotel
 - Website for The Orient Hotel
-- I built all of these side projets on HeEPP (My PHP MVC Framework)
+- I built all of these side projects on HeEPP (My PHP MVC Framework)
 
 ### PHP
 
@@ -578,7 +579,7 @@ Vane Systems offered me a R10 000 increase
 - WebCore (HeEPP)
 - Object Orientated
 - SaaS (Software as a Service)
-- Webservices (Restful & SOAP)
+- Web Services (Restful & SOAP)
 
 #### Databases
 
@@ -619,7 +620,7 @@ When I worked for d6 Group it was still known as Principal Software. I believe t
 The first update I proposed was to combine all code bases. This presented a bigger callenge than I thought for some strange reasons. The whole system was written in 1 very, very, very long PHP file. I believe it was a 12MB text file. What I found out later was that the original developer was in fact blind and coded the whole system with text to speech and knowing almost exactly what line of code did what. I was honestly impressed and shocked at the same time.
 
 - I took some time and I split the file into hundreds of smaller files
-- The first update I did was deploying the same code, but just split into smaller pieces, but just to one server and we created sub-domains for each school, the sub-domain also determined the DB name the system connected to. We decided to leave each school on their own database since none of the tables had a `school_id` or any unique identifier that would differenciete each school's data
+- The first update I did was deploying the same code, but just split into smaller pieces, but just to one server and we created sub-domains for each school, the sub-domain also determined the DB name the system connected to. We decided to leave each school on their own database since none of the tables had a `school_id` or any unique identifier that would differentiate each school's data
 - During the time I was there the company grew from being 3 people to more than 40 with over 2000 schools using the system with almost a million users. Working for this company was a real adventure and I enjoyed every day. I loved the people and how the product evolved.
 
 Web: [https://d6.co.za](https://d6.co.za/education/products/d6-plus/)
@@ -642,9 +643,9 @@ Web: [https://d6.co.za](https://d6.co.za/education/products/d6-plus/)
   - Projects
 - **Curriculum**
   - Curriculum Setup
-  - Promotion Critria
+  - Promotion Criteria
   - Marks Computing
-  - Rport Cards
+  - Report Cards
   - Certificates
   - Report Card Remarks
 
@@ -658,7 +659,7 @@ For some reason it felt like my job was done and I needed to move on, we were a 
 - Server Management
 - Department Manager
 - Lead Developer
-- Created online IDE where everyone worked, this prevented us from working on the same files at the same time. We were still using SVN, and I think that everyone who's worked with SVN knows how working on the same files can somethimes cause you to roll back an entire dev cycle.
+- Created online IDE where everyone worked, this prevented us from working on the same files at the same time. We were still using SVN, and I think that everyone who's worked with SVN knows how working on the same files can sometimes cause you to roll back an entire dev cycle.
 - Training
 - System Analysis
 - Maintenance
@@ -669,7 +670,7 @@ For some reason it felt like my job was done and I needed to move on, we were a 
 - WebCore (HeEPP)
 - Object Orientated
 - SaaS (Software as a Service)
-- Webservices (Restful & SOAP)
+- Web Services (Restful & SOAP)
 
 #### Databases
 
@@ -701,10 +702,10 @@ For some reason it felt like my job was done and I needed to move on, we were a 
 
 === HEAD WEB DEVELOPER
 
-### Dec 2005 - Feb 2006    Pageworks           Pretoria
+### Dec 2005 - Feb 2006    PageWorks           Pretoria
 
-Pageworks was a Advertising Agency, this was my first job where I was employed specifically for just web-development, but my title at the office was HEAD WEB DEVELOPER, I guess that was only because I was the only one, and not because I was in change of anyone else. We did however employ two more people in the department during the couse of the year it felt good doing my title justice.
-This was during the time of IE6, JQuery just started getting some traction and most websites were images cut up into tables. The web was very simplistic, you could only safely use 5 different fonts, I knew all the CSS rules, I honestly did not think JavaScript had any future, I treated it as a bad joke, I honestly believe that if Jquery did not come and save JavasScript then it might have been trashed togter with Objective C, Turbo Pascal and AT&T Unix Operating System.
+PageWorks was a Advertising Agency, this was my first job where I was employed specifically for just web-development, but my title at the office was HEAD WEB DEVELOPER, I guess that was only because I was the only one, and not because I was in change of anyone else. We did however employ two more people in the department during the course of the year it felt good doing my title justice.
+This was during the time of IE6, JQuery just started getting some traction and most websites were images cut up into tables. The web was very simplistic, you could only safely use 5 different fonts, I knew all the CSS rules, I honestly did not think JavaScript had any future, I treated it as a bad joke, I honestly believe that if Jquery did not come and save JavasScript then it might have been trashed together with Objective C, Turbo Pascal and AT&T Unix Operating System.
 
 #### Tasks and Tech
 
@@ -728,8 +729,8 @@ I got married and I decided to start working as a freelancer to have more time a
 
 ### Aug 2004 - Dec 2005    PC Palace           Pretoria
 
-- I was studying to become a lawyer back then, but to pay for my studies I started working at PC Palace as a techie. I've always had an intrest in computors and I knew much o what I knew back then by just playing around at home, constantly reinstalling Windows 95 from 22 Stiffy Disks that I baught on special from CNA's grand opening in Menlyn mall for R20. Before the days of owning a CD-ROM and before you could hope to download more than 10MB over an entire weekend.
-- The technical department booked in repairs with an Access database running on the Windows Server 2003. The database constantly kicked people out and caused loads of frustration. That is when I decided to create my very first website, I did some research and decided on a LAMP Stack, I've got no idea how it happened that I chose Apache, PHP and Mysql. It took me about two months and many sleepless nights but I completed the new system for the technical department. After that they put me in charge of the company website. Then some of the companie's clients also started paying them for developmet until Pageworks offerd me the Lead Web Developer role for 6 times what I was earing at PC Palace.
+- I was studying to become a lawyer back then, but to pay for my studies I started working at PC Palace as a techie. I've always had an interest in computers and I knew much o what I knew back then by just playing around at home, constantly reinstalling Windows 95 from 22 2.5" Disks that I bought on special from CNA's grand opening in Menlyn mall for R20. Before the days of owning a CD-ROM and before you could hope to download more than 10MB over an entire weekend.
+- The technical department booked in repairs with an Access database running on the Windows Server 2003. The database constantly kicked people out and caused loads of frustration. That is when I decided to create my very first website, I did some research and decided on a LAMP Stack, I've got no idea how it happened that I chose Apache, PHP and Mysql. It took me about two months and many sleepless nights but I completed the new system for the technical department. After that they put me in charge of the company website. Then some of the company's clients also started paying them for development until PageWorks offered me the Lead Web Developer role for 6 times what I was earing at PC Palace.
 That was it, I never looked back.
 
 #### Tasks & Tech

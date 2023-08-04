@@ -1,7 +1,7 @@
 ---
 title: Skills Matrix
 label: Skills Matrix
-date: 2022-05-15
+date: 2023-08-03
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 2
@@ -16,10 +16,11 @@ authors:
 
 - :icon-link: [My Dashboard](https://nav.cronje.me)
 - :icon-link: [Blog / Portfolio](https://blog.cronje.me)
-- :icon-link: [LinkedIn](https://linkedin.com/in/charl-cronje)
+- :icon-link: [LinkedIn](https://www.linkedin.com/in/charlpcronje)
 - :icon-link: [GitHub](https://github.com/charlpcronje)
 - :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
-- :icon-link: [StachShare](https://stackshare.io/webally)
+- :icon-link: [StackShare](https://stackshare.io/charlpcronje)
+- :icon-link: [Twitter](https://twitter.com/CPCharlCronje)
 
 ## Skills Matrix
 
@@ -33,6 +34,11 @@ I did not list all the things like Angular or React or Vue when it comes to Java
 
 | Language / Skill                   | Years Exp | Competency |
 |------------------------------------|-----------|------------|
+| **ARTIFICIAL INTELLIGENCE**        |  2 Years  |     3      |
+| - Prompt Engineering               |  1 Year   |     5      |
+| - LLM's (Large Language Models)    |  2 Years  |     4      |
+| - Embeddings                       |  1 Year   |     4      |
+| - Chat Bots                        |  2 Years  |     4      |
 | **ANDROID**                        |  4 Years  |     5      |
 | - Kotlin                           |  2 Years  |     4      |
 | - Java                             |  4 Years  |     4      |
@@ -54,11 +60,11 @@ I did not list all the things like Angular or React or Vue when it comes to Java
 | - UIkit                            |  2 Years  |     5      |
 | - UNOCSS                           |  1 Years  |     4      |
 | **CLOUD SERVICES**                 |  4 Years  |     4      |
-| - AWS                              |  4 Years  |     4      |
+| - AWS                              |  2 Years  |     4      |
 | - Google API, Workspace, Cloud     |  5 Years  |     4      |
 | - Miscrosoft Azure, Office 360     |  3 Years  |     4      |
 | **CONTAINERS**                     |  3 Years  |     5      |
-| - Docker                           |  3 Years  |     5      |
+| - Docker                           |  5 Years  |     5      |
 | - Rancher                          |  1 Years  |     5      |
 | - Portainer                        |  1 Years  |     5      |
 | - Podman                           |  1 Years  |     5      |
@@ -103,7 +109,7 @@ I did not list all the things like Angular or React or Vue when it comes to Java
 | - CodeIgniter                      |  1 Years  |     4      |
 | - CakePHP                          |  2 Years  |     4      |
 | - Symfony                          |  4 Years  |     5      |
-| Python                             |  2 Years  |     3      |
+| Python                             |  3 Years  |     3      |
 | R                                  |  1 Year   |     2      |
 | Unity 3D                           |  3 Years  |     5      |
 | Unreal Engine                      |  1 Year   |     3      |
