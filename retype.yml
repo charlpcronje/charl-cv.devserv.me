@@ -4,8 +4,10 @@ url: https://cv.cronje.me
 meta:
   title: " | cv.cronje.me -  Curriculum Vitae"
 branding:
-  title: Full-Stack Web, Software, DB Engineer
+  title: Full-Stack Web, Software, AI / DB Engineer
   label: SENIOR
+theme:
+  default: dark
 favicon: favicon.png
 links:
 - text: cronje.me Documentation 
@@ -22,4 +24,4 @@ edit:
   base: /src
   label: Edit on GitHub
 footer:
-  copyright: "Charl Cronje &copy; Copyright {{ year }}. All rights reserved."
+  copyright: "Copyright &copy;  Charl Cronje {{ year }}. All rights reserved."
