@@ -28,7 +28,7 @@ authors:
 
 _In each section the competency range from 1 Understands to 5 being Expert_
 
-I did not list all the things like Angular or React or Vue when it comes to JavaScript, and I'm not mentioning all frameworks like Laravel or Yii or Cake PHP etc. When it comes to PHP, or Bootstrap or Sass etc. When is comes to CSS, I don't believe that a being able to implement a framework is skill but if you know JavaScript it is implied that it includes all frameworks and if you are competent in PHP it implies all frameworks. I do always stay on top of all new tech so I'm sure I've worked in most of the popular frameworks or at least experimented with them and those I haven't are always fun to pick up.
+I did not list all the things like Angular or React or Vue when it comes to JavaScript, and I'm not mentioning all frameworks like Laravel or Yii or Cake PHP etc. When it comes to PHP, or Bootstrap or Sass etc. When is comes to CSS, I don't believe that being able to implement a framework is a skill but that if you know JavaScript it is implied that it includes all frameworks and if you are competent in PHP it implies all frameworks. I do always stay on top of all new tech so I'm sure I've worked in most of the popular frameworks or at least experimented with them and those I haven't are always fun to pick up.
 
 ### Programming, Scripting & Layout Languages
 
