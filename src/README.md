@@ -35,6 +35,13 @@ authors:
 
 ===
 
+=== Contact Details
+
+- :icon-device-mobile: +27 66 3322 481
+- :icon-read: charl@cronje.me
+
+===
+
 [!ref icon="mortar-board"](README.md)
 [!ref icon="graph"](skillsMatrix.md)
 [!ref icon="file-binary"](softwareSkills.md)
