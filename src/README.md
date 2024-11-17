@@ -1,34 +1,31 @@
 ---
 title: Summary of experience
 label: Summary of experience
-date: 2023-08-03
+date: 2024-10-23
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 3
 authors:
   - name: Charl Cronje
-    email: charl@cronje.me
-    link: https://blog.cronje.me
-    avatar: https://assets.cronje.me/avatars/darkNights.jpg
+    email: charl@webally.co.za
+    link: https://blog.webally.co.za
+    avatar: https://assets.webally.co.za/avatars/darkNights.jpg
 ---
 
 # Charl Cronje
-
-- :icon-link: [My Dashboard](https://nav.cronje.me)
-- :icon-link: [Blog / Portfolio](https://blog.cronje.me)
+- :icon-link: [Blog / Documentation](https://docs.webally.co.za)
 - :icon-link: [LinkedIn](https://www.linkedin.com/in/charlpcronje)
 - :icon-link: [GitHub](https://github.com/charlpcronje)
-- :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
 - :icon-link: [StackShare](https://stackshare.io/charlpcronje)
-- :icon-link: [Twitter](https://twitter.com/CPCharlCronje)
+- :icon-link: [X (Twitter)](https://x.com/CPCharlCronje)
 
 ## Personal
 
 === Information
 
-**Last Update:** 04 August 2023
+**Last Update:** September 2024
 
-- :icon-meter: Age: 40
+- :icon-meter: Age: 41
 - :icon-issue-closed: Drivers License: Yes; Code B
 - :icon-person-add: Place of Birth: Pretoria, South Africa
 - :icon-meter: Years Experience: 21
@@ -37,8 +34,8 @@ authors:
 
 === Contact Details
 
-- :icon-device-mobile: +27 66 3322 481
-- :icon-read: charl@cronje.me
+- :icon-device-mobile: +27 68 0097 995
+- :icon-read: charl@webally.co.za
 
 ===
 
@@ -48,40 +45,40 @@ authors:
 
 === My Wiki
 
-So many times we take time to figure out things we need to do just to repeat the process sometimes months or years later. I'm not crazy about doing the same things over and over or wasting time on researching the same problem more than once. So to avoid this I started writing some documentation on things I do that I might need to do again in the future.
+Often, we invest substantial effort into solving problems, only to encounter similar challenges months or even years later. I am not fond of redundancy or revisiting the same issues repeatedly. To circumvent this inefficiency, I have proactively begun documenting my processes and solutions. This documentation serves as a valuable reference, enabling me to quickly replicate successful outcomes without unnecessary duplication of effort, ensuring smarter, not harder, work practices.
 
-[!ref icon="server" label="Documentation Index"](https://docs.cronje.me)
+[!ref icon="server" label="Documentation Index"](https://docs.webally.co.za)
 
 | Document                                                                    | Description                                |
 |-----------------------------------------------------------------------------|--------------------------------------------|
-| :icon-markdown: [AI Docs](https://ai.docs.cronje.me)                        | Artificial Intelligence                     |
-| :icon-markdown: [Android Docs](https://android.docs.cronje.me)              | Using Linux tools on your android device   |
-| :icon-markdown: [ARM Docs](https://arm.docs.cronje.me)                      | Raspberry Pi Documentation                 |
-| :icon-markdown: [Backups & Config](https://backup.docs.cronje.me)           | Incremental Config backups with GIT        |
-| :icon-markdown: [Bash](https://bash.docs.cronje.me)                         | Bash Scripting                             |
-| :icon-markdown: [Crypto & Mining](https://crypto.docs.cronje.me)            | Crypto, Mining, Decentralization & Web 3.0 |
-| :icon-markdown: [Development](https://dev.docs.cronje.me)                   | Web / Terminal / Windows / App Development |
-| :icon-markdown: [DNS, MX Records, CNAME](https://dns.docs.cronje.me)        | Domain Name System, Mail exchange etc      |
-| :icon-markdown: [GitHub Gists](https://gist.docs.cronje.me)                 | GitHub Gists (Code snippets and scrips)    |
-| :icon-markdown: [Hacking & Info Gathering](https://hacking.docs.cronje.me)   | Hacking, Information gathering, Spoofing,  |
-| :icon-markdown: [HeEPP](https://heepp.docs.cronje.me)                       | HeEPP Model View Controller Framework      |
-| :icon-markdown: [JavaScript + (Node.js)](https://js.docs.cronje.me)         | JavaScript Front and Backend (Node.js)     |
-| :icon-markdown: [Kali Linux](https://kali.docs.cronje.me)                   | KALI Linux Docs & Setup                    |
-| :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.cronje.me)              | Eloquent model & Query builder for MongoDB |
-| :icon-markdown: [Notes and Links](https://notes.docs.cronje.me)             | Some things I need to remember with links   |
-| :icon-markdown: [Open Source](https://opensource.docs.cronje.me)            | What is awesome, how you can contribute    |
-| :icon-markdown: [Projects](https://projects.docs.cronje.me)                 | Some notes on projects I worked no         |
-| :icon-markdown: [PHP Development](https://php.docs.cronje.me)               | PHP Backend Development                    |
-| :icon-markdown: [Perl Development](https://perl.docs.cronje.me)             | Perl Server Side Development               |
-| :icon-markdown: [Repositories](https://repos.docs.cronje.me)                | GitHub Repos worth looking at              |
-| :icon-markdown: [Reporting & BI](https://reports.docs.cronje.me)            | Reporting & BI with Jasper Reports         |
-| :icon-markdown: [Software as a Service](https://saas.docs.cronje.me)        | Services I can recommend or created myself |
-| :icon-markdown: [Server & Software Setup](https://setup.docs.cronje.me)     | Server & Software Setup                    |
-| :icon-markdown: [Tips & Productivity](https://tips.docs.cronje.me)          | Tips on creating Productive workflows      |
-| :icon-markdown: [Tools and Self Hosted](https://tools.docs.cronje.me)       | Terminal and Web-Applications              |
-| :icon-markdown: [Trading & Crypto](https://trading.docs.cronje.me)          | Trading and Crypto Markets                 |
-| :icon-markdown: [Troubleshooting Docs](https://troubleshoot.docs.cronje.me) | Troubleshooting Documentation              |
-| :icon-markdown: [Windows Tips](https://win.docs.cronje.me)                  | Windows 10 & 11 Tips and Tricks            |
+| :icon-markdown: [AI Docs](https://ai.docs.webally.co.za)                        | Artificial Intelligence                     |
+| :icon-markdown: [Android Docs](https://android.docs.webally.co.za)              | Using Linux tools on your android device   |
+| :icon-markdown: [ARM Docs](https://arm.docs.webally.co.za)                      | Raspberry Pi Documentation                 |
+| :icon-markdown: [Backups & Config](https://backup.docs.webally.co.za)           | Incremental Config backups with GIT        |
+| :icon-markdown: [Bash](https://bash.docs.webally.co.za)                         | Bash Scripting                             |
+| :icon-markdown: [Crypto & Mining](https://crypto.docs.webally.co.za)            | Crypto, Mining, Decentralization & Web 3.0 |
+| :icon-markdown: [Development](https://dev.docs.webally.co.za)                   | Web / Terminal / Windows / App Development |
+| :icon-markdown: [DNS, MX Records, CNAME](https://dns.docs.webally.co.za)        | Domain Name System, Mail exchange etc      |
+| :icon-markdown: [GitHub Gists](https://gist.docs.webally.co.za)                 | GitHub Gists (Code snippets and scrips)    |
+| :icon-markdown: [Hacking & Info Gathering](https://hacking.docs.webally.co.za)   | Hacking, Information gathering, Spoofing,  |
+| :icon-markdown: [HeEPP](https://heepp.docs.webally.co.za)                       | HeEPP Model View Controller Framework      |
+| :icon-markdown: [JavaScript + (Node.js)](https://js.docs.webally.co.za)         | JavaScript Front and Backend (Node.js)     |
+| :icon-markdown: [Kali Linux](https://kali.docs.webally.co.za)                   | KALI Linux Docs & Setup                    |
+| :icon-markdown: [Mongo NoSQL DB](https://mongo.docs.webally.co.za)              | Eloquent model & Query builder for MongoDB |
+| :icon-markdown: [Notes and Links](https://notes.docs.webally.co.za)             | Some things I need to remember with links   |
+| :icon-markdown: [Open Source](https://opensource.docs.webally.co.za)            | What is awesome, how you can contribute    |
+| :icon-markdown: [Projects](https://projects.docs.webally.co.za)                 | Some notes on projects I worked no         |
+| :icon-markdown: [PHP Development](https://php.docs.webally.co.za)               | PHP Backend Development                    |
+| :icon-markdown: [Perl Development](https://perl.docs.webally.co.za)             | Perl Server Side Development               |
+| :icon-markdown: [Repositories](https://repos.docs.webally.co.za)                | GitHub Repos worth looking at              |
+| :icon-markdown: [Reporting & BI](https://reports.docs.webally.co.za)            | Reporting & BI with Jasper Reports         |
+| :icon-markdown: [Software as a Service](https://saas.docs.webally.co.za)        | Services I can recommend or created myself |
+| :icon-markdown: [Server & Software Setup](https://setup.docs.webally.co.za)     | Server & Software Setup                    |
+| :icon-markdown: [Tips & Productivity](https://tips.docs.webally.co.za)          | Tips on creating Productive workflows      |
+| :icon-markdown: [Tools and Self Hosted](https://tools.docs.webally.co.za)       | Terminal and Web-Applications              |
+| :icon-markdown: [Trading & Crypto](https://trading.docs.webally.co.za)          | Trading and Crypto Markets                 |
+| :icon-markdown: [Troubleshooting Docs](https://troubleshoot.docs.webally.co.za) | Troubleshooting Documentation              |
+| :icon-markdown: [Windows Tips](https://win.docs.webally.co.za)                  | Windows 10 & 11 Tips and Tricks            |
 
 ---
 
@@ -95,351 +92,425 @@ So many times we take time to figure out things we need to do just to repeat the
 
 ### Current           webAlly : Self-Employed     Johannesburg
 
-- webAlly is the company name under which I do all my freelance work, I established the company in 2006. Over the years I've accepted print work, advertising work, video, graphic design, web-development, custom hardware development, embedded programming and Software Development.
-- Awarded Tenders:
-  > Was awarded tenders from: 
-  - USAID on the PEPFAR project
-  - Municipality of Ekurhuleni
-  - Imperial Logistics
+**webAlly**: Founded in 2006, webAlly serves as the umbrella for all my freelance endeavors. Over the years, the company has diversified into multiple domains including print, advertising, video production, graphic design, web development, custom hardware development, embedded programming, and comprehensive software development solutions, showcasing a broad spectrum of technical and creative skills across industries.
 
-### Some of my clients & Projects
+### Awarded Tenders:
+- **USAID PEPFAR Project**: Successfully secured a tender to contribute to the international health initiative focused on HIV/AIDS treatment and prevention.
+- **Municipality of Ekurhuleni**: Awarded a tender that leveraged my extensive range of technical services to support local government projects.
+- **Imperial Logistics**: Collaborated on strategic projects, providing tailored solutions to one of the leading logistics companies.
 
-| Clients                                               | Clients                                                        |
-|-------------------------------------------------------|----------------------------------------------------------------|
-| ACSA - Airport Company South Africa                   | Airport Company South Africa - 3D Airport Explore              |
-| Airport Company South Africa - 3D Airport Game        | Airport Company South Africa - Duty free Shopping              |
-| Alex May Inc - Case Management System                 | Alex May Inc - Document Encryption                             |
-| Alex May Inc - Document Management Systems (DMS)      | ANANZI - Online Marketing / Banners                            |
-| Anglo American - E-Mail Marketing                     | Electronic Invitations                                         |
-| Anglo Gold - Electronic Invitations                   | Anglo Gold - Website                                           |
-| APBCO Insurance - Asset Management System             | ATKV - Website and Print                                       |
-| Best4Kids - Website & Customer Portal                 | BKS Engineers - Website                                        |
-| BlueJam Photography - Website                         | Brandwag School - Promotional Video                            |
-| Brinant Security - Shift and Staff Management System  | Cavalier Abattoirs - Process Management System                 |
-| Cavalier Abattoirs - Quote and Invoice System         | Cavalier Abattoirs - Vehicle Maintenance System                |
-| Cavalier Abattoirs - Vehicle Tracking and  System     | Cavalier Livestock - Website                                   |
-| CE @ UP - Multimedia Presentation                     | City Lodge - Bid2Stay Website                                  |
-| City Lodge - Online Booking System                    | City Lodge - System Integration                                |
-| City Lodge - Website                                  | City Lodge Hotel Group                                         |
-| Collect-a-Can - Website                               | Constantia Village Mall - Marketing System                     |
-| Continuing Education At University of Pretoria        | Die Poort School - Christmas Market Sales System               |
-| DIY Weddings - Website                                | DLC Group                                                      |
-| DLC Group - Website                                   | DOTCOM Trading - Data Capturing Software                       |
-| DOTCOM Trading - Database Development                 | DOTCOM Trading - GIS (Geographical Information Systems)        |
-| Duoporta - Vehicle Valuations System                  | Emperors Palace - Event Promotions                             |
-| Exxaro - Internal Communication System                | Exxaro - IZone Staff Empowerment System                        |
-| Exxaro - Online Quiz Game                             | Exxaro - Software for Real Life Quiz Game, Custom Hardware     |
-| Fear Factor Candy - Website                           | FGX Studios                                                    |
-| FGX Studios - CMS Centred                             | FGX Studios - CMS Development                                  |
-| FGX Studios - CMS Ignition                            | FGX Studios - Mall Management System                           |
-| FNB - Corporate Identity Development                  | Goldfield Logistics - Intranet                                 |
-| Imperial Distribution                                 | Imperial Logistics                                             |
-| Imperial Logistics - Building Management System       | Imperial Logistics - Document Management System                |
-| Imperial Logistics - HR Management System             | Imvula ICD - Asset Management System                           |
-| Imvula ICD - Server Monitoring System                 | Imvula ICD - Software License Management System                |
-| InGenius - Website                                    | Inspectacar - Online Car Market System                         |
-| IQ Recruitment - Candidate Management System          | Kumba Iron Ore - Annual Report                                 |
-| Laerskool Die Poort                                   | Legacy Underwriting Managers - Portfolio Management System     |
-| LURITS - Learner Performance Management System        | Mac Mobile - Product Distribution System                       |
-| McDonald's                                            | Musofinder - Website                                           |
-| Nutella - Billboards and Posters                      | Ombudsman - Case Management System                             |
-| One Red Marble - Website                              | OZ Pharmaceuticals - Website                                   |
-| PC Palace - Service and Product Repair                | Nexus Online - Website                                         |
-| PC Palace - Website                                   | Pencil Box - School Admin System                               |
-| PNA - E-Commerce                                      | PNA - Product Management System                                |
-| Principal Software - Custom Online IDE                | Principal Software - Custom Version Control System             |
-| Principal Software - School Admin System              | Principle Software                                             |
-| Quick PC - Billboards                                 | Restaurant Mosaic - Point of Sale System                       |
-| Restaurant Mosaic - Website                           | Student Village - System Analysis                              |
-| Super Soil - Brand Development                        | T-Systems - Website                                            |
-| The Car Shop - Website                                | The Orient Hotel - Hotel Management System                     |
-| The Orient Hotel - Point of Sale System               | The Orient Hotel - Website                                     |
-| The Orient Hotel - Website                            | TiciBox - Point Of Sale Systems                                |
-| Tribake - Quote and Invoice System                    | Tshwane University of Technology - Website                     |
-| TSMA - Website                                        | TUT Heita Newsletter (Award Winner)                            |
-| TUT Pharmaceuticals Department - Website              | UNISA - Annual Report                                          |
-| UNISA Law Department - Website                        | UNISA Math Department - Game                                   |
-| University of Pretoria - Multimedia Presentation      | Urban Crew - Website                                           |
-| USAID - NGO and Financial Management System           | Vane Systems - Bus Ticket Booking System                       |
-| Vane Systems - Event Ticketing System                 | Vane Systems - Indoor Venue Maps (SVG, XML)                    |
-| Voortrekker Monument - Website                        | WebOnline - Website                                            |
-| Yara International - Website and Branding             |                                                                |
+### Clients & Projects
 
-- Won 1st prize for 2 years running for the best electronic publication in South Africa for TUT's monthly newsletter called HEITA
-- I believe webAlly was one of few web development companies that also did print work. I outsourced all the non electronic media and got help with some of the hardware development but - I've always tried to keep the development close and to learn as much as possible, programming is truly a my passion.
-- In 2019, for McDonalds I Created and Launched Tinbo Dash, a PC and Android Infinite Runner type game where players could win vouchers by playing the game. We had over a million game played in 4 weeks.
+#### 1. Public Sector and Government Initiatives
+- **USAID - PEPFAR Grant Management System**: Developed a comprehensive grant management system for the President's Emergency Plan for AIDS Relief (PEPFAR), managing $400 million annually allocated to South Africa. The system ensured funds were used transparently, monitored for misuse, and safeguarded against corruption, supporting effective financial oversight for critical healthcare initiatives.
+- **LURITS - Learner Performance Management System**: Implemented a system to track and manage student performance across educational institutions.
+- **Ombudsman - Case Management System**: Developed a case management system to optimize handling of public inquiries and complaints.
+- **Voortrekker Monument - Website**: Designed a website to enhance visitor information and engagement for the historical site.
 
-### HeEPP - Hyper extensible Element Pre-Processor
+#### 2. Technology and Innovation
+- **PC Palace - Service and Product Repair**: Created a website and implemented a service management system to facilitate customer service and repair tracking.
+- **DOTCOM Trading**
+  - **Data Capturing Software**: Engineered software to facilitate efficient data entry and management.
+  - **Database Development**: Developed robust database solutions to support business operations.
+- **Exxaro - Software for Real Life Quiz Game, Custom Hardware**: Designed software and integrated custom hardware for interactive educational games.
+- **FGX Studios**: Delivered multiple projects including CMS development and mall management systems, enhancing content management and facility operations.
+  - **CMS Centred**: Created a content management system (CMS) to streamline content management processes.
+  - **CMS Development**: Developed a CMS to streamline content management processes.
+  - **Mall Management System**: Designed a mall management system to optimize mall operations.
+  - **CMS Ignition**: Developed a CMS to streamline content management processes.
+- **InGenius - Website**: Developed a corporate website to highlight innovative consulting services.
+- **Pencil Box - School Admin System**: Implemented a comprehensive administration system for educational management.
+- **Principal Software** 
+  - **Custom Online IDE**: Created a custom integrated development environment (IDE) to facilitate software development and project management.
+  - **Custom Version Control System**: Developed a bespoke version control system tailored to the specific workflow requirements of software teams.
+  - **School Admin System**: Engineered a comprehensive administration system to streamline school management tasks.
+  - **One Red Marble - Website**: Designed a website to showcase creative media services.
+- **Vane Systems**
+  - **Bus Ticket Booking System**: Developed a system for booking bus tickets, improving customer convenience and operational workflow.
+  - **Event Ticketing System**: Created an event ticketing platform to streamline sales and attendee management.
+  - **Indoor Venue Maps (SVG, XML)**: Produced interactive indoor venue maps to enhance visitor navigation and experience.
 
-- When I started doing freelance work I got a lot of the same kind of projects and I started creating modules I can re-use for different projects. These modules grew into a framework that I initially called `webCore`. Eventually after years the MVC framework I created was at the stage where it was the only tool I used for all my projects if the client had no particular preference. During this time I got a 2 year contract from Cavalier Abattoirs to create a complete process management system and invoice system. This gave me the chance to refine webCore and I renamed it HeEPP.
-- I named it HeEPP or Hyper extensible Element Pre-Processor because of the way the system focused or creating re-usable elements. Elements can be used within elements and elements can be extended by others. This was years before Google Polymer started doing the same but only on the front-end. 
-- In HeEPP you create custom HTML tags that is then called an element.
-- Each element has a corresponding PHP class with the same name
-- The attributes of the tag updates the properties of the PHP class and the PHP class will then render the element in various ways depending or those properties.
-- Elements can be used in loops and they can be nested and grouped. Building a system that comprises of re-usable elements you only have to create once and test once and that you can then build bigger elements with is surprisingly efficient and very stable and easy to maintain and test. The past few years I haven't had the time I wanted to finish the docs but I'm busy with that now in 2022 and I hope to get this done before May 2022 and then putting it out there for the public to comment and help out if they would like to. I hope to compete with Laravel from 2024 for the top spot in PHP MVC Frameworks
+#### 3. Healthcare and Medical Services
+- **OZ Pharmaceuticals - Website**: Created a website to promote pharmaceutical products and provide company information.
 
-#### Artificial Intelligence
+#### 4. Retail and Consumer Services
+- **Inspectacar - Online Car Market System**: Developed an online system for car sales, enhancing customer interaction and sales processes.
+- **McDonald's**: 
+  - **Gaming Success Story**: In 2019, I spearheaded the creation and launch of **Tinbo Dash**, an infinite runner game for PC and Android developed for McDonald's. The game was a tremendous success, recording over a **million plays** in just four weeks and offering players the chance to win vouchers, enhancing brand engagement through interactive entertainment.
+- **Musofinder - Website**: Developed a website for a music services company, enhancing online presence and user engagement.
+- **PNA**
+  - **E-Commerce**: Developed a comprehensive e-commerce platform to enable online shopping and improve customer reach.
+  - **Product Management System**: Implemented a system to efficiently manage inventory and product listings.
+- **Constantia Village Mall - Marketing System**: Implemented a digital marketing system to enhance engagement and promotional activities for a shopping mall.
+- **The Car Shop - Website**: Designed a website to showcase car sales and services.
 
-- Chat Bots
-- Model Training
-- Large Language Models
-- Fine Tuning Large Language Models
-- Pinecone Vector Database
-- Task Automation
-- Code Assistant
-- Chat GPT
+#### 5. Hospitality and Tourism
+- **Airport Company South Africa** 
+  - **3D Online Game in Airport walkthrough experience**: Collaborated on various digital initiatives including 3D explorative online game to advertise their new 3D walkthrough experience.
+  - **Duty-Free Shopping**: Developed an interactive platform for facilitating duty-free shopping at South African airports.
+- **City Lodge Hotel Group**: Provided a multi-faceted digital solution for CLHG, which included:
+  - **City Lodge - Bid2Stay Website**: Spin and Win style "game" to book rooms for discounted prices.
+  - **Online Booking System**: Created an integrated booking system to enhance guest reservation processes. 
+  - **System Integration**: Provided comprehensive IT integration services to streamline operations across multiple hotel locations.
+  - **Website**: Designed the main website for the City Lodge Hotel Group to boost online presence and customer engagement, online bookings, and online sales, loyalty system 
+- **Restaurant Mosaic**
+  - **Point of Sale System**: Implemented a point of sale system to enhance service delivery and transaction efficiency.
+  - **Website**: Developed a website to showcase the restaurant's offerings and facilitate reservations.
+- **The Orient Hotel**
+  - **Hotel Management System**: Delivered a full-scale hotel management system to optimize operations and guest services.
+  - **Point of Sale System**: Integrated a custom point of sale system tailored for hospitality needs.
+  - **Website**: Developed a website to showcase the hotel's offerings and facilitate reservations.
 
-#### Android
+#### 6. Financial and Banking Services
+- **Legacy Underwriting Managers - Portfolio Management System**: Developed a system to manage insurance portfolios efficiently.
+- **APBCO Insurance Brokers - Asset Management System**: Developed a system to manage the company's extensive assets
+  
+#### 7. Educational Institutions and Services
+- **Continuing Education at University of Pretoria (CE @ UP)**
+  - **Multimedia Presentation**: Produced multimedia content for educational programs at the University of Pretoria.
+  - **Email Management and Classification**: Developed digital platform for classification of their incoming and outgoing email communication
+- **Brandwag School - Promotional Video**: Crafted a promotional video to showcase school events and educational opportunities.
+- **Laerskool Die Poort (Primary School) - Christmas Market Sales System**: Implemented a sales system to enhance the school's annual fundraising event.
+- **Student Village - System Analysis**: Conducted a comprehensive system analysis to optimize student housing management.
+- **Tshwane University of Technology**
+  - **Website**: Developed the university's website to enhance educational communication and resources.
+  - **Heita Newsletter (Award-Winning Publications)**: Proud recipient of the 1st prize for two consecutive years for the best electronic publication in South Africa with TUT's monthly newsletter, **HEITA**. This achievement underscores my commitment to excellence in digital media.
+  - **Pharmaceuticals Department - Website**: Created a departmental website to showcase academic and research information.
+- **University of South Africa (UNISA)**
+  - **Annual Report**: Created their annual report and printed 250 000 copies highlighting the university's achievements and updates.
+  - **Law Department - Website**: Developed a website to provide resources and information pertinent to the Law department.
+  - **Math Department - Game**: Designed an educational game to support mathematics learning and engagement.
+- **Kumba Iron Ore - Annual Report**: Created an annual report to showcase the company's achievements and updates.
+  
+#### 8. Corporate and Business Services
+- **ATKV - Website and Print**: Developed a bilingual website and coordinated print materials to support tourism and cultural heritage.
+- **Best4Kids - Website & Customer Portal**: Crafted a dynamic website and customer portal to support educational services for children.
+- **BKS Engineers - Website**: Developed a professional website to showcase engineering services and projects.
+- **BlueJam Photography - Website**: Created an online portfolio to display photographic works and services.
+- **Brandwag School - Promotional Video**: Produced a promotional video to highlight educational programs and campus activities.
+- **Brinant Security - Shift and Staff Management System**: Implemented a management system to optimize staffing and shifts for security operations.
+- **Cavalier Abattoirs**
+  - **Process Management System**: Designed a system to streamline processing operations in an abattoir setting.
+  - **Quote and Invoice System**: Developed a tailored quoting and invoicing system for agricultural and meat processing operations.
+  - **Vehicle Maintenance System**: Implemented a maintenance tracking system for fleet management in agricultural operations.
+  - **Vehicle Tracking System**: Integrated vehicle tracking solutions to monitor transportation and logistics for livestock..
+- **DLC Group - Website**: Developed a corporate website to showcase business services and client portfolios.
+- **Duoporta - Vehicle Valuations System**: Created a system for accurate and real-time vehicle valuations.
+- **Exxaro**
+  - **Internal Communication System**: Enhanced internal communications with a custom digital solution.
+  - **IZone Staff Empowerment System**: Developed a system to empower staff and improve communication within the organization.
+  - **Online Quiz Game**: Developed a system to empower staff and improve communication within the organization.
+  - **Software for Real Life Quiz Game, Custom Hardware**: Created the physical buzzers / hardware for the real live game show 
+- **FNB - Corporate Identity Development**: Redesigned the corporate identity to strengthen brand recognition and consistency across all media.
+- **Imvula ICD**: Implemented systems ranging from asset management to software license management, improving infrastructure and resource monitoring.
+  - **Server Monitoring System**: Developed a monitoring system to ensure optimal server performance.
+  - **Software License Management System**: Created a system to manage software licenses and compliance.
+- **Super Soil - Brand Development**: Crafted brand identity and marketing materials to establish market presence.
+- **T-Systems - Website**: Developed a corporate website to reflect the services and innovations offered by the IT company.
+- **Yara International - Website**: Developed a website to showcase the company's products and services in the agricultural sector.
+- **Fear Factor Candy - Website**: Created a website to showcase the company's products and services in the confectionery industry.
+- **IQ Recruitment - Candidate Management System**: Developed a candidate management system to streamline recruitment processes.
+  
+#### 9. Logistics and Supply Chain
+ - **Goldfield Logistics - Intranet**: Developed an intranet system to streamline operations and internal communications.
+operational efficiency.
+- **Imperial Logistics - Digital Solutions Suite**: Provided a multi-faceted digital solution for Imperial Logistics, which included:
+  - **Website**: Designed and developed a corporate website to enhance Imperial Logistics' online presence.
+  - **Intranet**: Created an internal intranet system to streamline communication and resources across the organization.
+  - **Document Management System**: Implemented a document management system to securely store, organize, and retrieve critical business documents.
+  - **Building Management System**: Developed a boardroom and venue booking platform to manage availability and scheduling for internal meetings and events, improving logistical efficiency.
+  - **HR Management System**: Implemented a Human Resources (HR) management system to streamline HR processes and enhance employee management.
+- **Tribake - Quote and Invoice System**: Developed a quote and invoice system tailored for the Tribake business.
 
-- Cordova
-- Flutter
-- Java
-- Kotlin
+#### 10. Media, Marketing, and Advertising
+- **ANANZI - Online Marketing / Banners**: Created digital marketing strategies and online banners to boost web presence and user engagement.
+- **Anglo American - E-Mail Marketing**: Engineered an email marketing campaign to effectively communicate with stakeholders and the market.
+- **Anglo Gold - Electronic Invitations**: Designed and distributed digital invitations for corporate events and announcements.
+- **DIY Weddings - Website**: Created an interactive website for wedding planning and ideas.
+- **DOTCOM Trading - GIS (Geographical Information Systems)**: Deployed GIS technology to enhance marketing and demographic analysis.
+- **Nutella - Billboards and Posters**: Designed and produced marketing materials to boost brand visibility.
+- **Emperors Palace - Event Promotions**: Developed promotional strategies and digital content for events at a major entertainment venue.
+- **Quick PC - Billboards**: Designed and produced billboards for advertising PC repair and sales services.
+- **Urban Crew - Website**: Developed a website to promote a creative services agency specializing in urban style marketing and design.
 
-#### Bash Scripting
+#### 11. Insurance and Legal Services
+- **Alex May Inc**
+  - **Case Management System**: Implemented a comprehensive case management system to streamline operations and document handling.
+  - **Document Encryption**: Provided secure encryption solutions for sensitive medical and legal documents.
+  - **Document Management Systems (DMS)**: Developed a document management system to enhance the organization and retrieval of critical documents.
 
-- Bash
-- newt Whiptail
+#### 12. Environmental and Community Projects
+- **Collect-a-Can - Website**: Developed a website to promote recycling initiatives and environmental awareness.
+   
+---
 
-#### CSS, Frameworks & Pre-processors
+### Professional Highlights
 
-- Bootstrap
-- Bulma
-- Foundation
-- Less
-- Material Design
-- Materialize
-- Sass
-- Semantic UI
-- Skeleton
-- Tailwind CSS
-- UIkit
-- UNOCSS
+- **Award-Winning Publications**: Proud recipient of the 1st prize for two consecutive years for the best electronic publication in South Africa with TUT's monthly newsletter, **HEITA**. This achievement underscores my commitment to excellence in digital media.
+  
+- **Versatile Development Experience**: Founder of webAlly, a unique web development firm that uniquely bridged the gap between digital and print media. While outsourcing non-electronic media, I maintained a hands-on approach to all development projects to foster continuous learning and innovation. My deep-seated passion for programming drives every venture, ensuring cutting-edge solutions that keep development in-house.
+  
+- **Gaming Success Story**: In 2019, I spearheaded the creation and launch of **Tinbo Dash**, an infinite runner game for PC and Android developed for McDonald's. The game was a tremendous success, recording over a million plays in just four weeks and offering players the chance to win vouchers, enhancing brand engagement through interactive entertainment.
+
+### HeEPP - Hyper Extensible Element Pre-Processor
+
+- **Innovative Framework Development**: My freelance career, characterized by repetitive project types, inspired the creation of reusable modules that evolved into a robust framework originally named `webCore`. This platform was refined further through a significant two-year contract with Cavalier Abattoirs to develop a comprehensive process management and invoicing system, leading to its rebranding as **HeEPP**.
+
+- **Pioneering Modular Design**: I named it HeEPP (Hyper Extensible Element Pre-Processor) to reflect its core functionality—facilitating the creation of reusable elements that significantly enhance development efficiency. This system allows for the extension and nesting of elements, similar to concepts later popularized by Google Polymer, but with a full-stack approach that predates its front-end only solutions.
+
+- **Technical Mastery and Community Engagement**: HeEPP allows developers to define custom HTML tags, known as elements, which pair with corresponding PHP classes to render dynamically based on their attributes. This approach not only streamlines development but ensures stability and ease of maintenance. As I continue to finalize the documentation in 2022, my goal is to foster a community of contributors and elevate HeEPP to compete with leading frameworks like Laravel by 2024
+
+---
+
+### Artificial Intelligence
+
+- **Optical Character Recognition (OCR):** Extensive experience with digitizing documents using advanced machine learning models.
+- **Document Layout Analysis:** Proficient in extracting structured data from PDFs to improve data accessibility.
+- **Named Entity Recognition (NER):** Implemented NER systems that improve data categorization and retrieval processes.
+- **Text Summarization:** Developed algorithms to distill extensive text into concise summaries, enhancing user comprehension.
+- **Text Classification:** Created models that categorize text based on content, tone, and context for targeted responses.
+- **Normalization:** Designed systems to standardize text input for uniform processing and analysis.
+- **PyTorch:** Advanced proficiency in developing and deploying machine learning models using PyTorch.
+- **Hugging Face:** Expert in implementing transformer models for various NLP tasks using the Hugging Face library.
+- **BeRT:** Solid understanding of BeRT for developing high-accuracy NLP models.
+- **Pinecone Vector Database:** Skilled in integrating vector databases to optimize AI model performance and data retrieval.
+- **Large Language Models:** Experienced in training, fine-tuning, and deploying large language models for complex text analysis.
+- **Fine Tuning Large Language Models:** Specialized in refining pre-trained models to specific tasks to increase accuracy and efficiency.
+- **Chat Bots:** Developed interactive chat bots using NLP to simulate human-like interactions for customer support systems.
+- **Model Training:** Proficient in designing, training, and validating machine learning models to meet specific business needs.
+- **Task Automation:** Implemented automation processes using AI to streamline operations and reduce manual workload.
+- **Code Assistant:** Developed tools that aid in coding by suggesting improvements and automating routine tasks.
+- **Chat GPT:** Utilized GPT models for generating human-like text responses in various applications.
+
+### Android Development
+- **Cordova**: Utilized for creating mobile applications using HTML, CSS, and JavaScript, enabling cross-platform compatibility with minimal changes.
+- **Flutter**: Leveraged for crafting high-fidelity applications for iOS and Android from a single codebase, enhancing development speed and UI consistency.
+- **Java**: Employed in Android app development to build robust, high-performance applications.
+- **Kotlin**: Used for modern Android development with enhanced safety features and interoperability with Java.
+
+### Bash Scripting
+- **Bash**: Scripted routine server maintenance and automation tasks, increasing system efficiency and reliability.
+- **newt Whiptail**: Implemented in scripts to create more interactive user interfaces in terminal applications.
+
+### CSS, Frameworks & Pre-processors
+- **Bootstrap**: Applied for responsive design, ensuring websites are mobile-friendly and accessible across all devices.
+- **Bulma**: Utilized for its modular design and modern CSS features without JavaScript.
+- **Foundation**: Deployed to create enterprise-level responsive websites with a focus on accessibility and professional use.
+- **Less**: Used to extend CSS with dynamic behavior such as variables, mixins, and functions.
+- **Material Design**: Implemented Google's Material Design principles for visually appealing, consistent interfaces.
+- **Materialize**: Employed for quick development of responsive websites with a material design look.
+- **Sass**: Advanced CSS pre-processing to write maintainable, future-proof code.
+- **Semantic UI**: Utilized for its human-friendly HTML and integrative use with third-party libraries.
+- **Skeleton**: Deployed for lightweight and simple designs without the need for complex frameworks.
+- **Tailwind CSS**: Used for highly customizable, low-level utility classes that build bespoke designs.
+- **UIkit**: Implemented for its comprehensive collection of web interface components sophisticated for a unified design language.
+- **UNOCSS**: Leveraged to generate atomic CSS at build-time for performance-focused web projects.
 
 ### Cloud Services
-
-- AWS
-  - Amazon Auto-scaling
-  - Amazon CloudFront
-  - Amazon EBS (Elastic Block Store)
-  - Amazon EC2 (Elastic Compute Cloud)
-  - Amazon Elastic Beanstalk
-  - Amazon Glacier
-  - Amazon IAM (Identity and Access Management)
-  - Amazon Lambda
-  - Amazon RDS (Relational Database Services)
-  - Amazon S3 (Simple Storage Service)
-  - Amazon SNS (Simple Notification Service)
-  - Amazon VPC (Virtual Private Cloud)
-  - Dynamo DB
-- Google Cloud
-  - Analytics
-  - Cloud SQL
-  - Cloud Storage
-  - Compute Engine
-  - Firebase
-  - Google Kubernetes Engine
-  - Operations
-- Azure - Microsoft Web Services
-  - Azure Compute Services
-  - Azure Data Services
-  - Azure Development Services
-  - Azure Internet of Things (IoT)
-  - Azure Network Services
-  - Azure Storage
-- Atlassian
-  - Confluence
-  - Github
-  - GitLab
-  - JIRA
+- **AWS**:
+  - *Auto-scaling*: Configured to automatically adjust resource capacity and manage performance.
+  - *CloudFront*: Implemented to distribute content globally to improve site speed and user experience.
+  - *Elastic Block Store (EBS)*: Utilized for high-performance block storage service used with EC2 for both throughput and transaction-intensive workloads at any scale.
+  - *Elastic Compute Cloud (EC2)*: Managed cloud servers for running applications on the Amazon Web Services infrastructure.
+  - *Elastic Beanstalk*: Automated deployment and scaling of applications.
+  - *Glacier*: Employed for long-term storage solutions.
+  - *Identity and Access Management (IAM)*: Configured to securely control access to AWS services and resources.
+  - *Lambda*: Developed serverless applications responding to events.
+  - *Relational Database Services (RDS)*: Managed SQL database service that automates hardware provisioning, database setup, patching, and backups.
+  - *Simple Storage Service (S3)*: Implemented for scalable object storage for archival, data backup, and analytics.
+  - *Simple Notification Service (SNS)*: Configured for pub/sub, SMS, email, and mobile push notifications.
+  - *Virtual Private Cloud (VPC)*: Setup to launch AWS resources in a virtual network that you define.
+  - *Dynamo DB*: Managed NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.
+- **Google Cloud**:
+  - *Analytics*: Integrated for advanced data analysis and insights.
+  - *Cloud SQL*: Managed SQL database service for setting up, maintaining, managing, and administering relational PostgreSQL, MySQL, and SQL Server databases.
+  - *Cloud Storage*: Used for object storage with global edge-caching for high performance.
+  - *Compute Engine*: Operated for running large-scale computing workloads on virtual machines hosted on Google's infrastructure.
+  - *Firebase*: Applied for building and hosting web and mobile applications.
+  - *Google Kubernetes Engine*: Managed Kubernetes service to automate deployment, scaling, and management of containerized applications.
+  - *Operations*: Monitored the performance and diagnostics of applications on Google Cloud.
+- **Azure**:
+  - *Compute Services*: Managed and scaled applications in the cloud with compute capabilities.
+  - *Data Services*: Utilized for building, managing, and accessing data applications on Azure through Azure SQL Database, Cosmos DB, and more.
+  - *Development Services*: Used for streamlined development processes with integrated tools from source control to testing and deployment.
+  - *Internet of Things (IoT)*: Implemented to connect, monitor, and manage billions of IoT assets.
+  - *Network Services*: Configured to deploy hybrid and advanced networking scenarios.
+  - *Storage*: Applied scalable and durable cloud storage, backup, and recovery solutions.
+- **Atlassian**:
+  - *Confluence*: Employed for collaboration and documentation in project management.
+  - *GitHub*: Managed code repositories for version control and source code management.
+  - *GitLab*: Used for CI/CD pipelines, issue tracking, and source code management.
+  - *JIRA*: Leveraged for bug tracking, issue tracking, and project management functions to improve the agility of software development.
 
 ### Containers
-
-- Docker
-- Rancher
-- Portainer
-- Podman
-- Kubernetes
+- **Docker**: Deployed for developing, shipping, and running applications inside software containers.
+- **Rancher**: Managed Kubernetes at scale, delivering robust container management features.
+- **Portainer**: Used for simplified container management in Docker, Swarm, Kubernetes, and ACI environments.
+- **Podman**: Employed as a daemonless container engine for developing, managing, and running OCI Containers on your Linux System.
+- **Kubernetes**: Orchestrated containers for automating deployment, scaling, and management of containerized applications.
 
 ### Databases
-
-- Database Administrator
-- NoSQL Databases
-  - AWS DynamoDB
-  - CouchDB
-  - MongoDB
-  - Paper NoSQL
-- Relational Databases
-  - MariaDB
-  - MSSQL
-  - MySQL
-  - PostgreSQL
-  - SQLite
-- Columnar Databases
-  - Sybase
+- **Database Administrator**: Managed database operations, ensured data integrity, performed optimizations, and handled security compliance.
+- **NoSQL Databases**:
+  - *AWS DynamoDB*: Implemented a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at scale.
+  - *CouchDB*: Used for building web applications with heavy reliance on offline data.
+  - *MongoDB*: Deployed for document databases designed for ease of development and scaling.
+  - *Paper NoSQL*: Utilized for lightweight, high-performance data storage solutions.
+- **Relational Databases**:
+  - *MariaDB*: Managed as an enhanced, drop-in replacement for MySQL.
+  - *MSSQL*: Administered SQL Server for critical applications with high transaction rates.
+  - *MySQL*: Utilized for full-featured, open-source SQL database management.
+  - *PostgreSQL*: Applied for advanced open-source relational database with an emphasis on standards compliance and extensibility.
+  - *SQLite*: Used for embedded, zero-configuration, lightweight database engine.
+- **Columnar Databases**:
+  - *Sybase*: Employed for high-performance, scalable, and highly reliable enterprise database management systems.
 
 ### Delphi
-
-- Delphi for PHP
-- Embedded Programming
-- Rad Studio
+- **Delphi for PHP**: Used to quickly develop interactive web applications.
+- **Embedded Programming**: Applied Delphi in the creation of firmware and control systems.
+- **Rad Studio**: Leveraged for rapid application development, particularly for building native Windows applications.
 
 ### Flash
-
-- ActionScript 2
-- ActionScript 3
-- Flex
+- **ActionScript 2 & 3**: Developed rich interactive animations, complex games, and media-rich applications on the Flash platform.
+- **Flex**: Used for building highly interactive web applications that work consistently across all major browsers, desktops, and devices.
 
 ### Game Development, PC, Android and Console
-
-- Android
-- C#
-- Java
-- Kotlin
-- PixiJS
-- Unity 3D
+- **Android**: Developed games for Android using Java and Kotlin, focusing on performance and user experience.
+- **C#**: Utilized for Unity game development, creating immersive games and VR applications.
+- **Java**: Applied in Android game development and cross-platform game engines.
+- **Kotlin**: Used for developing Android games with advanced features such as safety, clarity, and tool support.
+- **PixiJS**: Leveraged for creating interactive digital content, focusing on fast rendering for multimedia applications.
+- **Unity 3D**: Developed 3D games and interactive content, utilizing C# for scripting game behavior and mechanics.
 
 ### Graphic Design / Multimedia / Layout / Vector
-
-- Adobe Premier
-- After Effects
-- Blender
-- Corel Draw
-- Google Sketchup
-- Illustrator
-- InDesign
-- InkScape
-- PhotoShop
+- **Adobe Premier**: Employed for professional video editing, combining high-performance editing tools with a sleek interface.
+- **After Effects**: Used for creating cinematic visual effects and motion graphics.
+- **Blender**: Utilized for 3D modeling, animation, rendering, and also for creating cutting-edge interactive 3D applications including games.
+- **Corel Draw**: Applied for vector graphic design, layout, and tracing software.
+- **Google Sketchup**: Used for 3D modeling architecture, interior design, and woodworking.
+- **Illustrator**: Utilized for creating sophisticated vector graphics, logos, and complex illustrations for any medium.
+- **InDesign**: Used for designing, preflighting, and publishing documents for print, online, or to mobile devices.
+- **InkScape**: Employed for vector graphics editing, with capabilities similar to Illustrator, CorelDraw, or Xara X.
+- **PhotoShop**: Advanced use for photo editing and complex digital painting.
 
 ### Hardware
-
-- Custom Hardware Development
-- Embedded Programming
+- **Custom Hardware Development**: Designed and developed tailored hardware solutions for specific technological needs.
+- **Embedded Programming**: Programmed microcontrollers and processors for controlling electronic systems in real-time operations.
 
 ### JavaScript
+- **AngularJS**: Developed dynamic SPAs (Single Page Applications) efficiently with less code and more functionality.
+- **Axios**: Implemented for promise-based HTTP client for the browser and Node.js, enhancing asynchronous web application development.
+- **Chrome Extensions**: Created extensions to enhance browser functionality and user interactions on Chrome.
+- **jQuery**: Simplified HTML DOM manipulation, event handling, and animation for rapid web development.
+- **Quasar**: Used for
 
-- AngularJS
-- Axios
-- Chrome Extensions
-- jQuery
-- Quasar
-- React
-- Svelte
-- Teleric
-- Vite
-- Vue.js
+ building high-performance Vue.js user interfaces in record time.
+- **React**: Built interactive user interfaces with focus on declarative views and component-based architecture.
+- **Svelte**: Leveraged for building cybernetically enhanced web apps with superior performance and less code.
+- **Teleric**: Implemented for integrating a complete suite of UI tools with existing applications.
+- **Vite**: Employed for its fast, fresh development server with bundle optimizations for complex projects.
+- **Vue.js**: Developed user-friendly and highly interactive web applications using the progressive JavaScript framework.
 
 ### Node.js
-
-- Express.JS
-- Meteor.js
-- Socket.io
+- **Express.JS**: Utilized for building web applications and APIs with a focus on performance and robust features.
+- **Meteor.js**: Employed for rapid software development of real-time web applications from a singular development interface.
+- **Socket.io**: Used for enabling real-time, bidirectional and event-based communication between web clients and servers.
 
 ### Package Managers & Build Tools
-
-- Bit
-- Bower
-- Composer
-- Cordova
-- DNF
-- NPM
-- PNPM
-- Quasar
-- RPM
-- Seed
-- Turbo
-- Vite
-- Web Pack
-- Yarn
-- Yum
+- **Bit**: Utilized for component-driven development, facilitating team collaboration and code reuse.
+- **Bower**: Managed dependencies for front-end components, including HTML, CSS, and JavaScript.
+- **Composer**: Deployed for dependency management in PHP, enabling consistent project environments.
+- **Cordova**: Employed for building mobile apps with CSS3, HTML5, and JavaScript instead of relying on platform-specific APIs.
+- **DNF**: Used as a package manager for RPM-based distributions, providing powerful dependency management.
+- **NPM**: Managed package installations for Node.js, helping to share and reuse code.
+- **PNPM**: Implemented for efficient and fast handling of node modules.
+- **Quasar**: Utilized for building high-performance Vue.js user interfaces in record time.
+- **RPM**: Managed software packages for Red Hat and its derivatives.
+- **Seed**: Employed for GNOME-oriented development tasks, scripting with JavaScript.
+- **Turbo**: Used for building and deploying applications more efficiently with less overhead.
+- **Vite**: Employed for its fast, fresh development server with bundle optimizations for complex projects.
+- **Web Pack**: Bundled assets, scripts, and stylesheets for production, optimizing load times.
+- **Yarn**: Improved project dependency management with a focus on speed, reliability, and security.
+- **Yum**: Managed packages for distributions like CentOS and Fedora, handling software installation, update, and removal.
 
 ### PHP
-
-- CakePHP
-- CodeIgniter
-- Composer
-- Laravel
-- PHP Ignition
-- Symfony
-- Yi
-- PHP API ()
-- Zend
+- **CakePHP**: Built rapid, robust, and secure web applications with a modern PHP 7 framework.
+- **CodeIgniter**: Utilized for its small footprint and straightforward installation process for rapid PHP web development.
+- **Composer**: Used for managing PHP package dependencies to streamline project environments.
+- **Laravel**: Developed comprehensive web applications with sophisticated syntax and features like routing, sessions, caching, and authentication.
+- **PHP Ignition**: Implemented for error handling in PHP projects to improve development speed and error resolution.
+- **Symfony**: Developed high-performance complex web applications.
+- **Yi**: Utilized for high-performance component-based PHP framework for developing large-scale web applications.
+- **PHP API**: Developed robust and secure APIs for web services.
+- **Zend**: Used for building high-quality web applications using an open-source PHP framework that supports robust, scalable web applications.
 
 ### Version Control
-
-- GIT
-- Version Control (Mercurial)
+- **GIT**: Managed source code versions for collaborative software development.
+- **Version Control (Mercurial)**: Utilized for distributed version control management, streamlining collaborative development and source code management.
 
 ### Web Component Frameworks
-
-- Lit-Elements
-- Lit-HTML
-- Polymer
+- **Lit-Elements**: Used for creating fast, lightweight web components.
+- **Lit-HTML**: Leveraged for efficient rendering and updating of HTML templates.
+- **Polymer**: Employed for building encapsulated, reusable web components on any webpage.
 
 ### Programming Methodologies
+- **RESTful APIs**: Developed and consumed RESTful services, facilitating communication between client-server applications.
+- **Soap Services**: Utilized for managing web service interfaces and ensuring interoperability between different systems.
 
-- RESTful API's
-- Soap Services
-
-#### Linux
-
-- Server Management
+### Linux
+- **Server Management**: Managed Linux servers for web hosting, application deployment, and system security.
 
 ### XML
-
-- WSDL
-- XML DTD
-- XML Schema's
-- XPath
-- X
-- WSDL
-- SLT
+- **WSDL**: Utilized for describing network services as a set of endpoints operating on messages.
+- **XML DTD**: Defined the structure and legal building blocks of an XML document.
+- **XML Schema's**: Defined, validated, and documented XML document structure.
+- **XPath**: Employed for navigating through elements and attributes in an XML document.
+- **X**: Utilized for managing variable data within XML workflows.
+- **WSDL**: Used for web services description language to describe the functionalities offered by a web service.
+- **XSLT**: Employed for transforming XML documents into readable formats.
 
 ### Python
-
-- Python 2
-- Python 3
+- **Python 2**: Maintained legacy applications developed in Python 2, focusing on compatibility and stability.
+- **Python 3**: Leveraged for developing modern software solutions, emphasizing readability, efficiency, and interoperability.
 
 ### R
-
-- RStudio
+- **RStudio**: Utilized for statistical computing and graphics, supported by R foundation for statistical computing.
 
 ### Other & Skills Tasks
+- **Agile Project Management**: Implemented Agile methodologies to enhance project delivery in terms of time, cost, and scope.
+- **Accounting Principles**: Applied fundamental accounting principles for managing financial records and reporting.
+- **Biometrics**: Implemented biometric systems for enhanced security measures and personnel identification.
+- **Bulk E-mail and SMS**: Managed large-scale email and SMS campaigns for marketing and communication purposes.
+- **Client Management**: Developed and maintained strong client relationships, ensuring high satisfaction and retention rates.
+- **Implementing code Standards**: Established coding standards to ensure consistency and quality in software development.
+- **Code Reviews**: Conducted thorough code reviews to maintain high standards of code quality and to foster collaborative learning.
+- **Commercial Software Development**: Developed software solutions tailored to business needs, focusing on scalability and market demands.
+- **Database Admin**: Managed and optimized database operations to ensure efficiency and data integrity.
+- **Digital Signatures**: Integrated digital signatures into applications to verify the authenticity and integrity of digital documents.
+- **E-Commerce**: Developed online commerce platforms, enhancing business operations and customer engagement.
+- **Electronic Invitations**: Designed and managed the distribution of electronic invitations for corporate and social events.
+- **Electronic Newsletters (Award Winner)**: Produced award-winning newsletter designs that enhanced communication and engagement with the target audience.
+- **Graphic Design**: Created visually compelling graphics to support various media campaigns and projects.
+- **Google Elements (Polymer)**: Employed Polymer for building web applications with reusable components.
+- **Intranet Development**: Developed and maintained intranet solutions to improve internal communications and operational efficiencies.
+- **Location Based Authentication**: Implemented location-based authentication systems to enhance security protocols and access control.
+- **Invoicing**: Managed the invoicing process to ensure timely payments and financial operations.
+- **Presentations**: Developed and delivered high-impact presentations to communicate project statuses and results to stakeholders.
+- **Project Management**: Oversaw project life cycles from initiation to closure, ensuring deliverables met the expected standards.
+- **Public Speaking**: Engaged in public speaking events to share insights and promote organizational objectives.
+- **SAP Development**: Integrated SAP solutions to enhance business processes and data analytics.
+- **Quotes**: Prepared detailed quotes for clients, providing clear and accurate cost estimations for services offered.
+- **Search Engine Optimization**: Implemented SEO strategies to enhance online visibility and user engagement.
+- **SOAP Services**: Developed SOAP-based services for web applications, ensuring robust data exchange and interoperability.
+- **Software Planning**: Planned software development projects, defining scope, resources, and timelines.
+- **Software Specifications**: Drafted detailed specifications for software development projects to guide development and ensure alignment with business goals.
+- **System Analysis**: Conducted system analysis to identify and address operational inefficiencies.
+- **Tender Applications**: Prepared and submitted tender applications, ensuring compliance with procurement regulations.
+- **Training**: Developed and conducted training sessions to enhance team capabilities and performance.
+- **Twig Templating**: Implemented Twig templating in web projects for dynamic content rendering.
+- **Video Editing**: Crafted engaging video content for marketing, educational, and corporate presentations.
+- **Website Hosting**: Managed web hosting services, ensuring high availability and performance of online platforms.
 
-- Agile Project Management
-- Accounting Principles
-- Biometrics
-- Bulk E-mail and SMS
-- Client Management
-- Implementing code Standards
-- Code Reviews
-- Commercial Software Development
-- Database Admin
-- Digital Signatures
-
-- E-Commerce
-- Electronic Invitations
-- Electronic Newsletters (Award Winner)
-- Graphic Design
-- Google Elements (Polymer)
-- Intranet Development
-- Location Based Authentication
-- Invoicing
-- Presentations
-- Project Management
-- Public Speaking
-- SAP Development
-- Quotes
-- Search Engine Optimization
-- SOAP Services
-- Software Planning
-- Software Specifications
-- System Analysis
-- Tender Applications
-- Training
-- Twig Templating
-- Video Editing
-- Website Hosting
 ===
 
 === SENOR FULL-STACK PHP / JS WEB / ANDROID DEVELOPER
@@ -458,92 +529,82 @@ Vane Systems creates and integrates with payment solutions as well as booking / 
 I left because I broke my back and was out of action for months, but since then I've no problems at all.
 
 ### Other Tasks
-
-- API Integration
-- Authentication including OAuth 2
-- Check and Apply Coding Standards
-- Database Development
-- Management Tools and Business Logic
-- Project Management
-- Project Planning
-- Server Management
-- System Analysis
+- **API Integration**: Integrated third-party APIs into various software systems to enhance functionality and interoperability.
+- **Authentication including OAuth 2**: Implemented OAuth 2 for secure, token-based user authentication in web and mobile applications.
+- **Check and Apply Coding Standards**: Enforced coding standards across development teams to ensure code quality and maintainability.
+- **Database Development**: Designed, developed, and maintained databases optimized for performance and scalability.
+- **Management Tools and Business Logic**: Utilized management tools to oversee project processes and implemented business logic to meet strategic objectives.
+- **Project Management**: Directed project teams and managed timelines, ensuring projects are delivered on time and within budget.
+- **Project Planning**: Prepared detailed project plans, defining scope, resources, and timelines to guide project execution.
+- **Server Management**: Administered and maintained servers to ensure optimal performance and reliability.
+- **System Analysis**: Analyzed existing systems to identify areas for improvement and integration to enhance system functionality and efficiency.
 
 ### PHP 5.6 and PHP 7
-
-- Custom MVC PHP Framework
-- Laravel
-- Laravel Lighthouse
-- Laravel Passport
-- Object Orientated
-- PHP
-- SaaS (Software as a Service)
-- Web Services (Restful & SOAP)
+- **Custom MVC PHP Framework**: Developed and maintained custom MVC frameworks tailored to specific application needs.
+- **Laravel**: Built robust applications using Laravel, a PHP framework known for its elegant syntax and features such as routing, sessions, and authentication.
+- **Laravel Lighthouse**: Implemented GraphQL APIs using Laravel Lighthouse, enhancing API capabilities and client-server interactions.
+- **Laravel Passport**: Utilized Laravel Passport for API authentication, securing communications between mobile and web applications.
+- **Object Oriented**: Applied object-oriented programming principles in PHP to enhance code reusability and maintainability.
+- **PHP**: Developed server-side logic using PHP, crafting dynamic and interactive web applications.
+- **SaaS (Software as a Service)**: Designed and deployed software applications over the Internet as a service, focusing on scalability and accessibility.
+- **Web Services (Restful & SOAP)**: Developed both RESTful and SOAP services in PHP to enable web-based interactions and data exchange.
 
 ### Database Management
-
-- MSSQL
-- Mysql
-- SQLite
+- **MSSQL**: Managed and optimized Microsoft SQL Server environments to support complex data-driven applications.
+- **MySQL**: Administered MySQL databases, ensuring data integrity, performance, and security.
+- **SQLite**: Implemented SQLite for lightweight database solutions in mobile apps and small web applications.
 
 ### Indoor Mapping
-
-- WSDL
-- XML DTD
-- XML Schema’s
-- XPath
-- XML
-- SVG
-- XHTML
-- XSLT
+- **WSDL**: Utilized Web Services Description Language to describe network services in indoor mapping applications.
+- **XML DTD**: Defined document structure with XML DTD that are used in the configuration of indoor mapping software.
+- **XML Schema’s**: Designed XML Schemas to validate and organize data in indoor mapping systems.
+- **XPath**: Applied XPath to navigate through elements and attributes in XML documents used in mapping solutions.
+- **XML**: Used XML extensively for data interchange in indoor geographic mapping systems.
+- **SVG**: Implemented Scalable Vector Graphics for interactive and high-quality visualizations in indoor maps.
+- **XHTML**: Used XHTML for structuring content on web-based indoor mapping platforms.
+- **XSLT**: Transformed XML data for presentation and data manipulation in indoor mapping applications.
 
 ### GIS
-
-- Geographic Information Systems (GIS)
-- Mapping and Geo Reverse Tracking
-- Route Planning
-- SQL Integration
+- **Geographic Information Systems (GIS)**: Applied GIS technologies to analyze and visualize geographic data for decision-making and problem-solving.
+- **Mapping and Geo Reverse Tracking**: Implemented mapping and reverse geo-tracking solutions to enhance location intelligence.
+- **Route Planning**: Developed systems for efficient route planning that optimize travel time and distance.
+- **SQL Integration**: Integrated SQL with GIS software to manage spatial data effectively.
 
 ### Server Administrator
-
-- Apache
-- CentOS 7
-- FreeBSD Mail Server
-- MariaDB
-- MySQL
-- NginX Reverse Proxy
-- PHP
+- **Apache**: Configured and managed Apache web servers, ensuring high availability and security.
+- **CentOS 7**: Administered CentOS 7 servers for enterprise environments, focusing on system stability and security.
+- **FreeBSD Mail Server**: Set up and maintained mail servers using FreeBSD, providing reliable email services.
+- **MariaDB**: Managed MariaDB, an enhanced, drop-in replacement for MySQL.
+- **MySQL**: Ensured efficient operation of MySQL servers for web applications.
+- **NginX Reverse Proxy**: Configured NginX as a reverse proxy to improve security, performance, and scalability of web applications.
+- **PHP**: Optimized PHP environments for performance and security on various servers.
 
 ### Security
-
-- Biometrics
-- Digital Signatures
-- Document Encryption
-- Facial Recognition
-- Location Based Authentication Methods
-- Voice Recognition
+- **Biometrics**: Integrated biometric technologies for secure user authentication based on physical characteristics.
+- **Digital Signatures**: Implemented digital signatures to secure and verify the authenticity of digital documents.
+- **Document Encryption**: Applied encryption techniques to protect sensitive information in digital formats.
+- **Facial Recognition**: Utilized facial recognition technology for enhanced security and personalized user experiences.
+- **Location Based Authentication Methods**: Deployed location-based authentication to bolster security protocols by verifying the geographical position.
+- **Voice Recognition**: Implemented voice recognition systems for hands-free operations and security enhancements.
 
 ### Android App Development
-
-- Custom Hardware Development
-- Java
-- Point Of Sale Systems
-- SQLite
-- Teleric
-- XML
+- **Custom Hardware Development**: Designed custom hardware solutions for specialized Android applications.
+- **Java**: Utilized Java for Android app development, focusing on robustness, object-oriented design, and performance.
+- **Point Of Sale Systems**: Developed Android-based point of sale systems to facilitate business transactions.
+- **SQLite**: Employed SQLite for local data storage on Android devices, ensuring data availability and stability.
+- **Telerik**: Integrated Telerik UI components to enhance UI/UX on Android apps.
+- **XML**: Used XML for designing user interfaces and managing data in Android applications.
 
 ### CSS Frameworks & Pre-processors
-
-- Bootstrap
-- Foundation
-- Material - SASS
-- Less CSS
-- Stylus
+- **Bootstrap**: Implemented Bootstrap for rapid, responsive web design.
+- **Foundation**: Utilized Foundation to create enterprise-level responsive websites.
+- **Material - SASS**: Applied Material Design principles using SASS for styling modern web applications.
+- **Less CSS**: Used Less CSS pre-processor to extend the capability of CSS with dynamic behaviors such as variables, mixins, and functions.
+- **Stylus**: Employed Stylus for rich and powerful CSS pre-processing, enabling more expressive styles with robust functions.
 
 ### Version Systems Control
-
-- GIT
-- SVN
+- **GIT**: Managed software development with Git, focusing on branching, merging, and version control.
+- **SVN**: Used Subversion (SVN) to maintain current and historical versions of files such as source code, web pages, and documentation.
 ===
 
 === SENIOR FULL-STACK PHP DEVELOPER
@@ -581,38 +642,32 @@ Vane Systems offered me a R10 000 increase
 - I built all of these side projects on HeEPP (My PHP MVC Framework)
 
 ### PHP
-
-- Custom MVC PHP Framework
-- WebCore (HeEPP)
-- Object Orientated
-- SaaS (Software as a Service)
-- Web Services (Restful & SOAP)
+- **Custom MVC PHP Framework**: Developed custom MVC (Model-View-Controller) frameworks for PHP, enhancing application modularity and facilitating scalability and maintenance.
+- **WebCore (HeEPP)**: Utilized WebCore, a part of HeEPP framework, for building dynamic web applications with a component-based architecture that streamlines development and improves performance.
+- **Object Oriented**: Applied object-oriented programming principles in PHP to structure code for reusability and efficiency, significantly reducing bugs and increasing maintainability.
+- **SaaS (Software as a Service)**: Designed and implemented software applications delivered over the web to provide multi-tenant, scalable solutions that reduce the overhead of management and updates for users.
+- **Web Services (Restful & SOAP)**: Developed web services using both RESTful approaches for their simplicity and scalability, and SOAP for its rigorous standards and security, facilitating seamless data interchange between disparate systems.
 
 #### Databases
-
-- Mysql
-- Sybase
+- **MySQL**: Administered MySQL databases to provide robust, reliable back-ends for web applications, optimizing queries and schemas to improve performance and scalability.
+- **Sybase**: Managed Sybase databases, an enterprise-level database management system known for its high performance and stability in transaction-heavy environments.
 
 #### Server Administrator
-
-- Apache
-- MySQL
-- PHP
+- **Apache**: Configured and maintained Apache web servers, optimizing .htaccess files and mod_rewrite rules for better performance and SEO-friendly URLs.
+- **MySQL**: Ensured the performance and security of MySQL servers hosted on web servers, including regular updates and tuning of the MySQL environment.
+- **PHP**: Optimized server settings for PHP to enhance application performance and secure server environments from common vulnerabilities.
 
 #### Security
-
-- Digital Signatures
-- Document Encryption
+- **Digital Signatures**: Implemented digital signatures in applications to ensure the authenticity and integrity of electronic documents and transactions, adhering to legal standards.
+- **Document Encryption**: Applied encryption techniques to protect sensitive information in documents, ensuring data confidentiality and compliance with privacy laws.
 
 #### CSS Frameworks & Pre-processors
-
-- Bootstrap
-- Foundation
-- Material Design
+- **Bootstrap**: Employed Bootstrap to quickly design responsive and mobile-first websites, utilizing its extensive component library to speed up development.
+- **Foundation**: Used Foundation to create responsive and accessible web interfaces, taking advantage of its flexible grid system and a wide range of built-in functionalities.
+- **Material Design**: Implemented Material Design principles using various CSS frameworks to create visually appealing and coherent user interfaces that follow modern design standards.
 
 #### Version Control
-
-- GIT
+- **GIT**: Leveraged Git for source code management, using features like branching, merging, and version tracking to facilitate collaborative development environments and ensure code integrity. 
 ===
 
 === SENOR FULL-STACK PHP DEVELOPER
@@ -660,50 +715,43 @@ Web: [https://d6.co.za](https://d6.co.za/education/products/d6-plus/)
 
 For some reason it felt like my job was done and I needed to move on, we were a dev team of 6 people by then and I trusted that they would be fine without me.
 
-#### Other Tasks
+### Other Tasks
+- **Project Management**: Led project teams and managed all phases of project lifecycle, ensuring objectives were met on time and within budget while maintaining high standards of quality and communication.
+- **Server Management**: Administered and optimized server configurations to ensure high availability and performance of web services.
+- **Department Manager**: Oversaw daily operations of the department, managing staff, budgets, and resources to meet organizational goals and improve departmental performance.
+- **Lead Developer**: Directed the development team in various projects, setting technical standards and ensuring solutions are architecturally sound and future-proof.
+- **Created online IDE**: Developed an integrated development environment (IDE) online to manage code collaboration more efficiently, particularly addressing SVN’s limitations with concurrent file modifications to reduce development conflicts and rollbacks.
+- **Training**: Designed and delivered technical training programs to enhance team competencies, improve productivity, and ensure consistency across project implementations.
+- **System Analysis**: Conducted comprehensive system analysis to identify and resolve inefficiencies, optimize performance, and implement upgrades that align with business objectives.
+- **Maintenance**: Managed ongoing maintenance and upgrades of software applications to ensure operational reliability and security of systems.
 
-- Project Management
-- Server Management
-- Department Manager
-- Lead Developer
-- Created online IDE where everyone worked, this prevented us from working on the same files at the same time. We were still using SVN, and I think that everyone who's worked with SVN knows how working on the same files can sometimes cause you to roll back an entire dev cycle.
-- Training
-- System Analysis
-- Maintenance
+### PHP
+- **Custom MVC PHP Framework**: Developed a custom MVC framework to support specific application requirements, facilitating rapid development, scalability, and maintenance.
+- **WebCore (HeEPP)**: Utilized WebCore as part of the HeEPP framework to build dynamic, scalable web applications, significantly reducing development time and improving user experience.
+- **Object Oriented**: Implemented object-oriented programming principles in PHP to create modular, reusable, and maintainable code.
+- **SaaS (Software as a Service)**: Developed multi-tenant web applications as services, providing scalable solutions to clients and reducing overhead through cloud technology.
+- **Web Services (Restful & SOAP)**: Engineered web services using RESTful API for its simplicity and flexibility, and SOAP for ensuring secure, transactional messaging between applications.
 
-#### PHP
+### Databases
+- **MySQL**: Managed and optimized MySQL databases, enhancing data integrity, query performance, and scalability.
+- **Sybase**: Administered Sybase database systems, focusing on performance tuning and security for enterprise-level applications.
 
-- Custom MVC PHP Framework
-- WebCore (HeEPP)
-- Object Orientated
-- SaaS (Software as a Service)
-- Web Services (Restful & SOAP)
+### Server Administrator
+- **Apache**: Configured and maintained Apache web servers to host and manage websites, ensuring security, efficiency, and availability.
+- **MySQL**: Oversaw the MySQL server for optimal performance and secure data management as part of the LAMP stack.
+- **PHP**: Optimized PHP configurations on servers to enhance performance and security for hosted web applications.
 
-#### Databases
+### Security
+- **Digital Signatures**: Implemented digital signatures in software solutions to verify the authenticity of digital documents, securing electronic transactions and communications.
+- **Document Encryption**: Applied strong encryption standards to safeguard sensitive documents from unauthorized access and data breaches.
 
-- Mysql
-- Sybase
+### CSS Frameworks & Pre-processors
+- **Bootstrap**: Employed Bootstrap for rapid, effective responsive design, streamlining web development and ensuring cross-device compatibility.
+- **Foundation**: Utilized Foundation to build accessible, professional websites that maintain design integrity across various platforms.
+- **Material Design**: Applied Material Design principles to develop intuitive and visually appealing user interfaces that enhance user experience.
 
-#### Server Administrator
-
-- Apache
-- MySQL
-- PHP
-
-#### Security
-
-- Digital Signatures
-- Document Encryption
-
-#### CSS Frameworks & Pre-processors
-
-- Bootstrap
-- Foundation
-- Material Design
-
-#### Version Control
-
-- GIT
+### Version Control
+- **GIT**: Managed version control using Git, facilitating team collaboration, code integration, and release management to ensure code integrity and trackability. 
 
 ===
 
@@ -800,4 +848,4 @@ One of my friends owned an internet cafe / Web-Hosting company, I helped out whe
 
 ===
 
-__To convert this document to PDF, visit: https://www.web2pdfconvert.com/ and add https://cv.cronje.me to the URL__
+__To convert this document to PDF, visit: https://www.web2pdfconvert.com/ and add https://cv.webally.co.za to the URL__

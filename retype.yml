@@ -1,8 +1,8 @@
 input: src
 output: public
-url: https://cv.cronje.me
+url: https://cv.webally.co.za
 meta:
-  title: " | cv.cronje.me -  Curriculum Vitae"
+  title: " | cv.webally.co.za -  Curriculum Vitae"
 branding:
   title: Full-Stack Web, Software, AI / DB Engineer
   label: SENIOR
@@ -10,17 +10,17 @@ theme:
   default: dark
 favicon: favicon.png
 links:
-- text: cronje.me Documentation 
-  link: https://docs.cronje.me
+- text: webally.co.za Documentation 
+  link: https://docs.webally.co.za
   icon: link
-- text: cronje.me Dashboard
-  link: https://nav.cronje.me
+- text: webally.co.za Dashboard
+  link: https://nav.webally.co.za
   icon: link
 - text: Curriculum Vitae
-  link: https://cv.cronje.me
+  link: https://cv.webally.co.za
   icon: link
 edit:
-  repo: "https://github.com/charlpcronje/cv.cronje.me/"
+  repo: "https://github.com/charlpcronje/cv.webally.co.za/"
   base: /src
   label: Edit on GitHub
 footer:

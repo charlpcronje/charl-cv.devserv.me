@@ -7,20 +7,20 @@ icon: mortar-board
 order: 1
 authors:
   - name: Charl Cronje
-    email: charl@cronje.me
-    link: https://blog.cronje.me
-    avatar: https://assets.cronje.me/avatars/darkNights.jpg
+    email: charl@webally.co.za
+    link: https://blog.webally.co.za
+    avatar: https://assets.webally.co.za/avatars/darkNights.jpg
 ---
 
 # Charl Cronje
 
-- :icon-link: [My Dashboard](https://nav.cronje.me)
-- :icon-link: [Blog / Portfolio](https://blog.cronje.me)
+- :icon-link: [Documentation](https://docs.webally.co.za)
+- :icon-link: [Website](https://webally.co.za)
 - :icon-link: [LinkedIn](https://www.linkedin.com/in/charlpcronje)
 - :icon-link: [GitHub](https://github.com/charlpcronje)
 - :icon-link: [Discord Channel](https://discord.gg/dwY4gnnGHC)
 - :icon-link: [StackShare](https://stackshare.io/charlpcronje)
-- :icon-link: [Twitter](https://twitter.com/CPCharlCronje)
+- :icon-link: [X (Twitter)](https://x.com/CPCharlCronje)
 
 === Software Skills
 
@@ -56,7 +56,7 @@ There are other Software / Online Services like TensorFlow that because of it's 
 | Software / Service           | Years Exp | Competency |
 |------------------------------|-----------|------------|
 | Auto Hot Key                 | 2 Years   |     5      |
-| n8n                          | 1 Year    |     4      |
+| n8n                          | 2 Year    |     4      |
 | RoboTask                     | 1 Year    |     5      |
 
 ## Cloud Services / Remote Access
@@ -243,6 +243,7 @@ There are other Software / Online Services like TensorFlow that because of it's 
 |------------------------------|-----------|------------|
 | Windows                      | 26 Years  |     5      |
 | CentOS                       | 13 Years  |     5      |
+| Rocky Linux                  | 3 Years   |     5      |
 | Fedora                       | 7 Years   |     5      |
 | Debian GNU                   | 14 Years  |     5      |
 | Ubuntu                       | 9 Years   |     5      |

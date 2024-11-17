@@ -1,4 +1,4 @@
-# cv.cronje.me
+# cv.webally.co.za
 
 Curriculum Vitae - Personal Info, Client List, Project List, Tasks, Skills Matrix and Software Skills with link to my LinkedIn Account, GitHub Account and Some More
 

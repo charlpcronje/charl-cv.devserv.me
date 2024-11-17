@@ -1,5 +1,8 @@
 .vscode
 logs/*
-public/*
+#public/*
 workspace.code-workspace
 settings.json
+.history
+logs
+public
