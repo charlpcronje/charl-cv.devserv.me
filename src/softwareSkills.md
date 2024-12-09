@@ -1,7 +1,7 @@
 ---
 title: Software Skills
 label: Software Skills
-date: 2023-08-03
+date: 2024-11-21
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 1
@@ -24,8 +24,12 @@ authors:
 
 === Software Skills
 
-When it comes to software, most are not worth mentioning and some are just implied by being a developer. Software like MS Office is great but I'm not going to mention each package that makes up the suite. I do see being competent with Linux as a skill because it plays a critical part of a developer's job.
-There are other Software / Online Services like TensorFlow that because of it's nature its almost impossible to call yourself an expert an all facets, that would be like someone saying they are an expert in all fields when it comes to machine learning, the best you can wish for in some fields are a good understanding and enough knowledge to know what they don't know and who to ask and where to find some answers to difficult questions.
+- When it comes to software, most are not worth mentioning and some are just implied by being a developer. 
+- Software like MS Office is great but I'm not going to mention each package that makes up the suite. 
+- I do see being competent with Linux as a skill because it plays a critical part of a developer's job.
+- There are other Software / Online Services like TensorFlow that because of it's nature its almost impossible to call yourself an expert an all facets, that would be like someone saying they are an expert in all fields when it comes to machine learning.
+- The best you can wish for in some fields are a good understanding and enough knowledge to know what they don't know and who to ask and where to find some answers to difficult questions.
+
 
 ## AI Software & Services
 
@@ -48,8 +52,11 @@ There are other Software / Online Services like TensorFlow that because of it's 
 |------------------------------|-----------|------------|
 | ADB - Platform Tools         | 2 Years   |     4      |
 | Android Studio               | 3 Years   |     5      |
+| Android SDK                  | 3 Years   |     5      |
 | Cordova                      | 2 Years   |     5      |
 | Gradle                       | 3 Years   |     5      |
+| Flutter                      | 2 Years   |     4      |
+| Ionic                        | 2 Years   |     4      |
 
 ## Automation Software & Services
 
@@ -147,6 +154,8 @@ There are other Software / Online Services like TensorFlow that because of it's 
 | Vim                          | 2 Years   |     5      |
 | Visual Studio                | 6 Years   |     5      |
 | Visual Studio Code           | 5 Years   |     5      |
+| Cursor                       | 0.5       |     4      |
+| Windsurf IDE                 | 0.2 Years |     3      |
 | Wamp                         | 9 Years   |     5      |
 | WebStorm                     | 7 Years   |     5      |
 | Xampp                        | 14 Years  |     5      |
@@ -215,8 +224,8 @@ There are other Software / Online Services like TensorFlow that because of it's 
 | Adobe Audition               | 2 Years   |     4      |
 | Adobe Captivate              | 2 Years   |     3      |
 | Adobe Illustrator            | 2 Years   |     4      |
-| Adobe Indesign               | 1 Years   |     5      |
-| Adobe Photoshop              | 17 Years  |     5      |
+| Adobe InDesign               | 1 Years   |     5      |
+| Adobe PhotoShop              | 17 Years  |     5      |
 | Affinity Photo               | 4 Years   |     5      |
 | Blender                      | 3 Years   |     5      |
 | Caddie                       | 2 Years   |     5      |
@@ -250,8 +259,8 @@ There are other Software / Online Services like TensorFlow that because of it's 
 | Kali Linux                   | 5 Years   |     5      |
 | RedHat Linux                 | 11 Years  |     5      |
 | Suze Linux                   | 2 Years   |     5      |
-| OpenSUSE                     | 1 Years   |     5      |
+| OpenSUSE                     | 1 Years   |     3      |
 | FreeBSD                      | 2 Years   |     5      |
-| Raspberry Pi OS (Raspbian)   | 4 Years   |     5      |
+| Raspberry Pi OS (Raspbian)   | 4 Years   |     4      |
 
 ===

@@ -4,7 +4,7 @@ url: https://cv.webally.co.za
 meta:
   title: " | cv.webally.co.za -  Curriculum Vitae"
 branding:
-  title: Full-Stack Web, Software, AI / DB Engineer
+  title: Full-Stack Web, Mobile, DB, AI & Automation Engineer, 
   label: SENIOR
 theme:
   default: dark
@@ -13,15 +13,18 @@ links:
 - text: webally.co.za Documentation 
   link: https://docs.webally.co.za
   icon: link
-- text: webally.co.za Dashboard
-  link: https://nav.webally.co.za
-  icon: link
 - text: Curriculum Vitae
   link: https://cv.webally.co.za
   icon: link
+- text: LinkedIn
+  link: https://linkedin.com/in/charlpcronje
+  icon: link
+- text: YouTube
+  link: https://youtube.com/charlpcronje
+  icon: link
 edit:
   repo: "https://github.com/charlpcronje/cv.webally.co.za/"
-  base: /src
+  base: ""
   label: Edit on GitHub
 footer:
   copyright: "Copyright &copy;  Charl Cronje {{ year }}. All rights reserved."

@@ -1,7 +1,7 @@
 ---
 title: Skills Matrix
 label: Skills Matrix
-date: 2023-08-03
+date: 2024-11-21
 description: Charl Cronje's Curriculum Vitae, Summary of Experience, Software Skills, Links to Documentation
 icon: mortar-board
 order: 2
@@ -127,6 +127,7 @@ I did not list all the things like Angular or React or Vue when it comes to Java
 | - Quasar, Electron, Cordova, Capacitor |  3 Year   |     4      |
 | - Node.js, Express.js, Socket.io       |  8 Years  |     5      |
 | - Deno, Bun                            |  3 Year   |     4      |
+| **TypeScript**                         |  5 Years  |     4      |
 | **Pascal**                             |  5 Years  |     5      |
 | **Perl**                               |  4 Years  |     5      |
 | **PHP**                                |  21 Years |     5      |

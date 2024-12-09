@@ -1,6 +1,6 @@
 {
   "version": "3.6.0",
-  "created": "2024-11-15T08:52:02Z",
+  "created": "2024-12-09T15:08:08Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -10,6 +10,10 @@
     },
     {
       "path": "CNAME"
+    },
+    {
+      "path": "comp/index.html",
+      "old": true
     },
     {
       "path": "favicon.png"
